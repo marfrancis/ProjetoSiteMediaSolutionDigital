@@ -2691,7 +2691,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     13. Footer Css
 ---------------------------*/
 .footer-bg {
-  background: url(../images/bg/footer-bg.jpg);
+  background: url(../images/bg-footer-preto.jpg);
   background-size: cover;
 }
 

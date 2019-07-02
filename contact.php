@@ -1,97 +1,13 @@
-<!doctype html>
-<html class="no-js" lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Contact || Seomar - SEO & Digital Marketing Bootstrap 4 Template</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
-    
-    <!-- CSS 
-    ========================= -->
-   
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    
-    <!-- Fonts CSS -->
-    <link rel="stylesheet" href="assets/css/bicon.min.css">
-    
-    <!-- Plugins CSS -->
-    <link rel="stylesheet" href="assets/css/plugins.css">
-    
-    <!-- Main Style CSS -->
-    <link rel="stylesheet" href="assets/css/style.css">
-    
-    <!-- Modernizer JS -->
-    <script src="assets/js/vendor/modernizr-2.8.3.min.js"></script>
-</head>
+<?php include_once 'head.php'?>
 
 <body>
 
-<!-- Main Wrapper Start -->
-<div class="main-wrapper">
-   
-    <!-- Header-area start -->
-    <header class="header header-sticky">
-        <div class="header-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4">
-                        <!-- logo Start -->
-                        <div class="logo">
-                            <a href="index.html"><img src="assets/images/logo/logo.png" alt=""></a>
-                        </div><!--// logo End -->
-                    </div>
-                    <div class="col-lg-8">
-                        <!-- main-menu-area Start -->
-                        <div class="main-menu">
-                            <nav class="main-navigation">
-                                <ul>
-                                    <li class="active"><a href="index.html">HOME</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="index.html">Home Page 1</a></li>
-                                            <li><a href="index-2.html">Home Page 2</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="about.html">ABOUT</a></li>
-                                    <li><a href="service.html">SERVICE</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="service-2.html">Service 2</a></li>
-                                            <li><a href="service-3.html">Service 3</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="index.html">PAGES</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="errer-404.html">Error 404</a></li>
-                                            <li><a href="case-studie.html">Case Study</a></li>
-                                            <li><a href="project-details.html">Project Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="blog.html">BLOG</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="blog-sidebar-left.html">Blog Left Sidebar</a></li>
-                                            <li><a href="blog-sidebar-right.html">Blog Right Sidebar</a></li>
-                                            <li><a href="blog-details-right-sidebar.html">Blog Details Right Sidebar</a></li>
-                                            <li><a href="blog-details-left-sidebar.html">Blog Details Left Sidebar</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="contact.html">CONTACT</a></li>
-                                </ul>
-                            </nav>
-                        </div><!--// main-menu-area End -->
-                    </div>
-                    <div class="col">
-                        <!-- mobile-menu start -->
-                        <div class="mobile-menu d-block d-lg-none"></div>
-                        <!-- mobile-menu end -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
+    <!-- Main Wrapper Start -->
+    <div class="main-wrapper">
+
+        <!-- Header-area start -->
+    <?php include_once 'header.php' ?>
+        <!-- Header-area end -->
     <!-- Header-area end -->
     
     <!-- breadcrumb-area start -->
@@ -99,7 +15,7 @@
         <div class="container">
             <div class="row">
                 <div class="col">
-                    <h2 class="breadcrumb-title">Contact</h2>
+                    <h2 class="breadcrumb-title">Contato</h2>
                     <!-- breadcrumb-list start -->
                     <ul class="breadcrumb-list">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -119,8 +35,8 @@
                 <div class="col-lg-12">
                     <!-- section-title Start -->
                     <div class="section-title">
-                        <h4>CONTACT</h4>
-                        <h3>Get in <span>Touch</span></h3>
+                        <h4>CONTATO</h4>
+                        <h3>Entre em <span>Contato</span></h3>
                     </div>
                     <!--// section-title End -->
                 </div>
@@ -137,7 +53,7 @@
                                     </div> <!--// contact-icon -->
 
                                     <div class="contact-info">
-                                        <p>Greenline, 4/3 north corn walinon, concord palase,Usa.</p>
+                                        <p>Avenida Paulista, 543 - São Paulo</p>
                                     </div><!--// contact-info -->
                                 </div>
                                 <!-- single-contact End -->
@@ -150,8 +66,7 @@
                                     </div> <!--// contact-icon -->
 
                                     <div class="contact-info">
-                                        <a href="#">info@website.com</a>
-                                        <a href="#">sales@website.com</a>
+                                        <a href="#">contato@mediasolutionproducoes.com.br</a>
                                     </div><!--// contact-info -->
                                 </div>
                                 <!-- single-contact End -->
@@ -164,7 +79,7 @@
                                     </div> <!--// contact-icon -->
 
                                     <div class="contact-info">
-                                        <a href="#">+1 88345 789 456</a>
+                                        <a href="#">+55 (11)98312-2283</a>
                                         <a href="#">+1 (259) 235-3898</a>
                                     </div><!--// contact-info -->
                                 </div>
@@ -182,32 +97,32 @@
                             <div class="row">
                                 <div class="col-lg-6 col-md-6">
                                     <div class="input-box">
-                                        <input name="name" placeholder="Your Name*" type="text">
+                                        <input name="name" placeholder="Seu nome*" type="text" required>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6">
                                     <div class="input-box">
-                                        <input name="email" placeholder="Mail Address*" type="email">
+                                        <input name="email" placeholder="Endereço de e-mail*" type="email" required>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6">
                                     <div class="input-box">
-                                        <input name="phone" placeholder="Phone*" type="text">
+                                        <input name="phone" placeholder="Telefone*" type="text" required>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6">
                                     <div class="input-box">
-                                        <input name="subject" placeholder="Subject*" type="text">
+                                        <input name="subject" placeholder="Assunto*" type="text" required>
                                     </div>
                                 </div>
                                 <div class="col-lg-12">
                                     <div class="input-box">
-                                        <textarea name="message" placeholder="Your Message*"></textarea>
+                                        <textarea name="message" placeholder="Sua mensagem*" required></textarea>
                                     </div>
                                 </div>
                             </div>
                             <div class="contact-submit-btn text-center">
-                                <button type="submit" class="submit-btn border-radius  default-btn">Send Email</button>
+                                <button type="submit" class="submit-btn border-radius  default-btn">Enviar e-mail</button>
                                 <p class="form-messege"></p>
                             </div>
                         </form>
@@ -228,86 +143,7 @@
    
     
     <!-- Footer Area Start -->
-    <footer class="footer-area footer-bg">
-        <!-- Footer-top Start -->
-        <div class="footer-top pt--50 pb--100">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-md-6">
-                        <!-- Footer-info Start -->
-                        <div class="footer-info mt--60">
-                            <div class="footer-logo">
-                                <a href="#"><img src="assets/images/logo/logo-2.png" alt=""></a>
-                            </div>
-                            <p>It is a long established fact that a reader will page when looking at its layout.  all reader will page when looking </p>
-                            <ul class="social">
-                                <li><a href="#"><i class="bi bi-facebook"></i></a></li>
-                                <li><a href="#"><i class="bi bi-twitter-bird"></i></a></li>
-                                <li><a href="#"><i class="bi bi-twitter"></i></a></li>
-                                <li><a href="#"><i class="bi bi-youtube"></i></a></li>
-                            </ul>
-                        </div><!--// Footer-info End -->
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <!-- Footer-info Start -->
-                        <div class="footer-info  mt--60">
-                            <div class="footer-title">
-                                <h3>SERVICES</h3>
-                            </div>
-                            <ul class="footer-list">
-                                <li><a href="#">Heating Repair</a></li>
-                                <li><a href="#">Plumbing Services</a></li>
-                                <li><a href="#">Conditioning Repair</a></li>
-                                <li><a href="#">Electrical Services</a></li>
-                            </ul>
-                        </div><!--// Footer-info End -->
-                    </div>
-                    <div class="col-lg-3  col-md-6">
-                        <!-- Footer-info Start -->
-                        <div class="footer-info  mt--60">
-                            <div class="footer-title">
-                                <h3>QUICK CONTACT</h3>
-                            </div>
-                            <ul class="footer-list">
-                                <li>Bluesitline, 4/3 north corn <br> walinon, Usa.</li>
-                                <li><a href="#">seomar11@gmail.com</a></li>
-                                <li><a href="#">+88345 789 456</a></li>
-                            </ul>
-                        </div><!--// Footer-info End -->
-                    </div>
-                    <div class="col-lg-3  col-md-6">
-                        <!-- Footer-info Start -->
-                        <div class="footer-info  mt--60">
-                            <div class="footer-title">
-                                <h3>INSTAGRAM FEED</h3>
-                            </div>
-                            <ul class="footer-list-instagram">
-                                <li><a href="#"><img src="assets/images/instagram/ins-1.jpg" alt=""></a></li>
-                                <li><a href="#"><img src="assets/images/instagram/ins-2.jpg" alt=""></a></li>
-                                <li><a href="#"><img src="assets/images/instagram/ins-3.jpg" alt=""></a></li>
-                                <li><a href="#"><img src="assets/images/instagram/ins-4.jpg" alt=""></a></li>
-                                <li><a href="#"><img src="assets/images/instagram/ins-5.jpg" alt=""></a></li>
-                                <li><a href="#"><img src="assets/images/instagram/ins-6.jpg" alt=""></a></li>
-                            </ul>
-                        </div><!--// Footer-info End -->
-                    </div>
-                </div>
-            </div>
-        </div><!--// Footer-top End -->
-        
-        <!-- footer-bottom Start -->
-        <div class="footer-bottom">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="footer-bottom-inner text-center">
-                            <p>Copyright &copy; Seomar 2018 All Right Reserved</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div><!--// footer-bottom End -->
-    </footer>
+    <?php include_once 'footer.php' ?>
     <!-- Footer Area End -->
     
     
