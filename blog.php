@@ -7,7 +7,7 @@
 
         <!-- Header-area start -->
     <?php include_once 'header.php' ?>
-        <!-- Header-area end -->''
+        <!-- Header-area end -->
     <!-- Header-area end -->
     
     <!-- breadcrumb-area start -->

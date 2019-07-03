@@ -15,11 +15,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col">
-                        <h2 class="breadcrumb-title">Project Details</h2>
+                        <h2 class="breadcrumb-title">Serviços</h2>
                         <!-- breadcrumb-list start -->
                         <ul class="breadcrumb-list">
                             <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                            <li class="breadcrumb-item active">Project Details</li>
+                            <li class="breadcrumb-item active">Serviços</li>
                         </ul>
                         <!-- breadcrumb-list end -->
                     </div>
@@ -42,7 +42,7 @@
                         <div class="row">
                             <div class="col-12">
                                 <div class="project-title">
-                                    <h2>SEO marketing do a unlimited</h2>
+                                    <h2>Edição de Vídeos</h2>
                                 </div>
                             </div>
                             <div class="col-lg-7">

@@ -66,7 +66,7 @@
                                     </div> <!--// contact-icon -->
 
                                     <div class="contact-info">
-                                        <a href="#">contato@mediasolutionproducoes.com.br</a>
+                                        <a href="#">contato@mediasolutiondigital.com.br</a>
                                     </div><!--// contact-info -->
                                 </div>
                                 <!-- single-contact End -->

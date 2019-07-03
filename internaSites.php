@@ -15,11 +15,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col">
-                        <h2 class="breadcrumb-title">Project Details</h2>
+                        <h2 class="breadcrumb-title">Serviços</h2>
                         <!-- breadcrumb-list start -->
                         <ul class="breadcrumb-list">
                             <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                            <li class="breadcrumb-item active">Project Details</li>
+                            <li class="breadcrumb-item active">Serviços</li>
                         </ul>
                         <!-- breadcrumb-list end -->
                     </div>
@@ -42,10 +42,10 @@
                         <div class="row">
                             <div class="col-12">
                                 <div class="project-title">
-                                    <h2>SEO marketing do a unlimited</h2>
+                                    <h2>Criação de Sites</h2>
                                 </div>
                             </div>
-                            <div class="col-lg-7">
+                            <div class="col-lg-12">
                                 <div class="project-details">
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia odio temporibus
                                         distinctio repudiandae eum nostrum amet quam consequatur incidunt reprehenderit
@@ -57,15 +57,7 @@
                                         tempora natus.</p>
                                 </div>
                             </div>
-                            <div class="col-lg-4 offset-lg-1">
-                                <div class="project-info">
-                                    <ul>
-                                        <li>Client: <span>John Marke</span></li>
-                                        <li>Project type: <span>SEO And Marketing</span></li>
-                                        <li>Website: <a href="#"><span>http://www.info.com</span></a></li>
-                                    </ul>
-                                </div>
-                            </div>
+                            
                             <div class="col-12">
                                 <div class="project-details-cont mt--30">
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid molestias in
@@ -89,20 +81,7 @@
 
 
         <!-- Perfect-start-area  Start -->
-        <div class="perfect-start-aera bg-grey">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="perfect-start-inner">
-                            <p>Make Your Perfect Business Right Now!</p>
-                            <div class="get-started-button">
-                                <a href="#" class="start-btn">Get Started</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php include_once 'perfect.php' ?>
         <!-- Perfect-start-area  End -->
 
         <!-- Footer Area Start -->
