@@ -11,9 +11,9 @@
                             <h3>Soluções Web</h3>
                         </div>
                         <ul class="footer-list">
-                            <li><a href="#">Criação de Sites</a></li>
-                            <li><a href="#">Desenvolvimento de Apps</a></li>
-                            <li><a href="#">Registro e Hospedagem</a></li>
+                            <li><a href="internaSites.php">Criação de Sites</a></li>
+                            <li><a href="internaApps.php">Desenvolvimento de Apps</a></li>
+                            <li><a href="internaRegistroHosp.php">Registro e Hospedagem</a></li>
                         </ul>
                     </div>
                     <!--// Footer-info End -->
@@ -25,9 +25,9 @@
                             <h3>design gráfico</h3>
                         </div>
                         <ul class="footer-list">
-                            <li><a href="#">Identidade Visual</a></li>
-                            <li><a href="#">Criação de Logo</a></li>
-                            <li><a href="#">Arte de projetos</a></li>
+                            <li><a href="internaIdentVisual.php">Identidade Visual</a></li>
+                            <li><a href="internaLogos.php">Criação de Logo</a></li>
+                            <li><a href="internaArtesProjetos.php">Arte de projetos</a></li>
                         </ul>
                     </div>                   
                 </div>
@@ -38,8 +38,8 @@
                             <h3>Marketing Digital</h3>
                         </div>
                         <ul class="footer-list">
-                            <li><a href="#">Campanha Digital</a></li>
-                            <li><a href="#">SEO</a></li>
+                            <li><a href="internaCampDigital.php">Campanha Digital</a></li>
+                            <li><a href="internaSEO.php">SEO</a></li>
                         </ul>
                     </div>                   
                 </div>
@@ -50,7 +50,7 @@
                             <h3>OUTROS</h3>
                         </div>
                         <ul class="footer-list">
-                            <li><a href="#">Edição de vídeos</a></li>
+                            <li><a href="internaVideos.php">Edição de vídeos</a></li>
                         </ul>
                     </div>                   
                 </div>

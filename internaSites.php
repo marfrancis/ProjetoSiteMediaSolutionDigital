@@ -47,14 +47,7 @@
                             </div>
                             <div class="col-lg-12">
                                 <div class="project-details">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia odio temporibus
-                                        distinctio repudiandae eum nostrum amet quam consequatur incidunt reprehenderit
-                                        unde
-                                        facilis ea corporis eos voluptatibus delectus minima eius veritatis, officiis
-                                        eaque!
-                                        Corrupti quos quia beatae obcaecati vero quisquam at iste rem quam ab
-                                        necessitatibus
-                                        tempora natus.</p>
+                                    <p>A criação de sites é um dos carros chefes da Media Solution. Com programadores qualificados, podemos fazer tanto o Front-End (a parte visual) quanto o Back-End (Programação) do seu site. Prontos para encarar qualquer desafio, garantimos aos clientes um site totalmente funcional. Sempre pensando no melhor do consumidor, produzimos sites totalmente amigáveis ao usuário, aproveitando conceitos de UX e UI, tudo para que o usuário permaneça o maior tempo possível dentro do seu sistema.   </p>
                                 </div>
                             </div>
                             

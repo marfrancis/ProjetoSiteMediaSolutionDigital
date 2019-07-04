@@ -53,7 +53,7 @@
                                     </div> <!--// contact-icon -->
 
                                     <div class="contact-info">
-                                        <p>Avenida Paulista, 543 - São Paulo</p>
+                                        <p>São Caetano do Sul</p>
                                     </div><!--// contact-info -->
                                 </div>
                                 <!-- single-contact End -->
@@ -80,7 +80,7 @@
 
                                     <div class="contact-info">
                                         <a href="#">+55 (11)98312-2283</a>
-                                        <a href="#">+1 (259) 235-3898</a>
+                                        <a href="#">+55 (11)93264-6565</a>
                                     </div><!--// contact-info -->
                                 </div>
                                 <!-- single-contact End -->
@@ -130,13 +130,7 @@
                     <!-- contact-form-warp End -->
                 </div>
             </div>
-            <div class="row">
-                <div class="col">
-                    <div class="map-area">
-                        <div id="map"></div>
-                    </div>
-                </div>
-            </div>
+            
         </div>
     </div>
     <!-- contact Area End -->
