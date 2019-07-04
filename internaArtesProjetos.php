@@ -45,27 +45,12 @@
                                     <h2>Criação de artes para projetos e apresentações</h2>
                                 </div>
                             </div>
-                            <div class="col-lg-7">
+                            <div class="col-lg-12">
                                 <div class="project-details">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia odio temporibus
-                                        distinctio repudiandae eum nostrum amet quam consequatur incidunt reprehenderit
-                                        unde
-                                        facilis ea corporis eos voluptatibus delectus minima eius veritatis, officiis
-                                        eaque!
-                                        Corrupti quos quia beatae obcaecati vero quisquam at iste rem quam ab
-                                        necessitatibus
-                                        tempora natus.</p>
+                                    <p>Vai fazer uma apostila, um livro, ebook ou apresentação e quer alguém pra fazer a arte de seu projeto? A Media Solution trabalha com ótimos designers que vão fazer o visual do seu trabalho ficar excelente.</p>
                                 </div>
                             </div>
-                            <div class="col-lg-4 offset-lg-1">
-                                <div class="project-info">
-                                    <ul>
-                                        <li>Client: <span>John Marke</span></li>
-                                        <li>Project type: <span>SEO And Marketing</span></li>
-                                        <li>Website: <a href="#"><span>http://www.info.com</span></a></li>
-                                    </ul>
-                                </div>
-                            </div>
+                            
                             <div class="col-12">
                                 <div class="project-details-cont mt--30">
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid molestias in

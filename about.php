@@ -51,15 +51,13 @@
                         <!-- About us content Start -->
                         <div class="about-us-content">
                             <p>
-                              It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                              The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,page when looking at its layout.
-                              The point of using
+                            A Media Solution é uma empresa voltada à tecnologia, que tem como intenção tornar os seus projetos realidade. Somos apaixonados por inovação, e estamos sempre nos atualizando para oferecermos o melhor aos nossos clientes. Queremos tornar o seu sonho possível, e sabemos que, nos dias atuais, o digital é o melhor meio para fazer sua iniciativa deslanchar. Pensando nisso, criamos a Media Solution. Vamos facilitar a sua vida com um trabalho muito bem feito.
                             </p>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                            <p>Entre em contato conosco, peça um orçamento, e veja seu sonho tornando-se realidade! </p>
                             <ul>
-                                <li>Content of a page when looking at its layout. </li>
-                                <li>Content of a page when looking at its layout azer duskam. </li>
-                                <li>Content of a page when looking at its layout azer</li>
+                                <li>Com soluções web, podemos criar um site que transmita a imagem da sua empresa.</li>
+                                <li>Com design gráfico, podemos criar uma identidade visual para seu projeto. </li>
+                                <li>Com Marketing Digital, sua empresa irá fazer muito sucesso nas redes sociais e nos mecanismos de buscas.</li>
                             </ul>  
                         </div>
                         <!--// About us content End -->
