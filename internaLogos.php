@@ -81,20 +81,7 @@
 
 
         <!-- Perfect-start-area  Start -->
-        <div class="perfect-start-aera bg-grey">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="perfect-start-inner">
-                            <p>Make Your Perfect Business Right Now!</p>
-                            <div class="get-started-button">
-                                <a href="#" class="start-btn">Get Started</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php include_once 'perfect.php' ?>
         <!-- Perfect-start-area  End -->
 
         <!-- Footer Area Start -->
