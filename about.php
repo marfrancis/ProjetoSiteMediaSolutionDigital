@@ -1,4 +1,14 @@
-<?php include_once 'head.php'?>
+<?php 
+$root = 'http://localhost/projetositemediasolutiondigital/';
+$foto = 'slider-inner-2.png';
+
+$title = $facebook_title = "Sobre Nós";
+$keywords = 'Desenvolvimento, personalizado., Sistemas, , Web, uma, empresa, atendimento, tenha, benefícios, website, únicos., Web4business., Desenvolva, seu, Criação, com, brusque, web designer, desenvolvimento web, php, sistemas, manutenção de sites, negócios internet, empresa de sites, solução web, soluções, webfor, site, webbusiness, web business, web4 business, criação de sites, webquatro, webbrusque, E-commerce, E-comerce, Ecommerce, Desenvolvedor de Sites, Brusque, Sites, Web for, Media Solution, Media';
+$description = $facebook_description = substr(strip_tags('<p>Desenvolvimento Web, uma empresa de Criação de Sites e Sistemas Web com atendimento personalizado. Criação de Sites é com a Media Solution. Desenvolva seu website com a Media Solution e tenha benefícios únicos.</p>'), 0, 200);
+$facebook_image = htmlentities($root . 'img/' . $foto);
+
+
+include_once 'head.php'?>
 
 <body>
 
@@ -79,8 +89,8 @@
                     <div class="count-icon">
                         <i class="bi bi-cup"></i>
                     </div>
-                    <h3 class="counter-active">112</h3>
-                    <p>Award Won</p>
+                    <h3 class="counter-active">1</h3>
+                    <p>Premios</p>
                 </div>
                 <!-- counter end -->
             </div>
@@ -90,8 +100,8 @@
                     <div class="count-icon">
                         <i class="bi bi-like"></i>
                     </div>
-                    <h3 class="counter-active">345</h3>
-                    <p>Project Done</p>
+                    <h3 class="counter-active">14</h3>
+                    <p>Projetos Concluidos</p>
                 </div>
                 <!-- counter end -->
             </div>
@@ -101,8 +111,8 @@
                     <div class="count-icon">
                         <i class="bi bi-emo-smile"></i>
                     </div>
-                    <h3 class="counter-active">215</h3>
-                    <p>Satisfied Client</p>
+                    <h3 class="counter-active">25</h3>
+                    <p>Clientes Satisfeitos</p>
                 </div>
                 <!-- counter end -->
             </div>
@@ -112,8 +122,8 @@
                     <div class="count-icon">
                         <i class="bi bi-screen"></i>
                     </div>
-                    <h3 class="counter-active">124</h3>
-                    <p>Running Project</p>
+                    <h3 class="counter-active">12</h3>
+                    <p>Projetos em Execução</p>
                 </div>
                 <!-- counter start -->
             </div>
@@ -136,21 +146,21 @@
                     <!--// section-title End -->
                 </div>
             </div>
-            <div class="row">
+            <div class="row alignMembers">
                 <div class="col-lg-3 col-md-6">
                     <!-- Single Team Start -->
                     <div class="single-team mt--30">
                         <div class="team-imgae">
                             <img src="assets/images/team/01.jpg" alt="">
                             <div class="social-link">
-                                <a href="#"><i class="bi bi-facebook"></i></a>
-                                <a href="#"><i class="bi bi-twitter-bird"></i></a>
-                                <a href="#"><i class="bi bi-twitter"></i></a>
-                                <a href="#"><i class="bi bi-youtube"></i></a>
+                            <a href="#"><i class="fab fa-facebook"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                                <a href="#"><i class="fab fa-instagram"></i></a>
+                                <a href="#"><i class="fab fa-linkedin"></i></a>
                             </div>
                         </div>
                         <div class="team-info">
-                            <h3>Marcelo Ribeiro</h3>
+                            <h3>Marcelo Francis</h3>
                         </div>
                     </div><!--// Single Team End -->
                 </div>
@@ -160,10 +170,10 @@
                         <div class="team-imgae">
                             <img src="assets/images/team/02.jpg" alt="">
                             <div class="social-link">
-                                <a href="#"><i class="bi bi-facebook"></i></a>
-                                <a href="#"><i class="bi bi-twitter-bird"></i></a>
-                                <a href="#"><i class="bi bi-twitter"></i></a>
-                                <a href="#"><i class="bi bi-youtube"></i></a>
+                                <a href="#"><i class="fab fa-facebook"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                                <a href="#"><i class="fab fa-instagram"></i></a>
+                                <a href="#"><i class="fab fa-linkedin"></i></a>
                             </div>
                         </div>
                         <div class="team-info">
@@ -171,40 +181,7 @@
                         </div>
                     </div><!--// Single Team End -->
                 </div>
-                <div class="col-lg-3 col-md-6">
-                    <!-- Single Team Start -->
-                    <div class="single-team mt--30">
-                        <div class="team-imgae">
-                            <img src="assets/images/team/03.jpg" alt="">
-                            <div class="social-link">
-                                <a href="#"><i class="bi bi-facebook"></i></a>
-                                <a href="#"><i class="bi bi-twitter-bird"></i></a>
-                                <a href="#"><i class="bi bi-twitter"></i></a>
-                                <a href="#"><i class="bi bi-youtube"></i></a>
-                            </div>
-                        </div>
-                        <div class="team-info">
-                            <h3>John Maker </h3>
-                        </div>
-                    </div><!--// Single Team End -->
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <!-- Single Team Start -->
-                    <div class="single-team mt--30">
-                        <div class="team-imgae">
-                            <img src="assets/images/team/04.jpg" alt="">
-                            <div class="social-link">
-                                <a href="#"><i class="bi bi-facebook"></i></a>
-                                <a href="#"><i class="bi bi-twitter-bird"></i></a>
-                                <a href="#"><i class="bi bi-twitter"></i></a>
-                                <a href="#"><i class="bi bi-youtube"></i></a>
-                            </div>
-                        </div>
-                        <div class="team-info">
-                            <h3>Tom Lara</h3>
-                        </div>
-                    </div><!--// Single Team End -->
-                </div>
+                
             </div>
         </div>
     </div>

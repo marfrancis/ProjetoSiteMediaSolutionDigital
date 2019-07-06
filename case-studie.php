@@ -1,4 +1,17 @@
-<?php include_once 'head.php'?>
+<?php 
+
+$root = 'http://localhost/projetositemediasolutiondigital/';
+$foto = 'slider-inner-2.png';
+
+$title = $facebook_title = "Portfólio";
+$keywords = 'Desenvolvimento, personalizado., Sistemas, , Web, uma, empresa, atendimento, tenha, benefícios, website, únicos., Web4business., Desenvolva, seu, Criação, com, brusque, web designer, desenvolvimento web, php, sistemas, manutenção de sites, negócios internet, empresa de sites, solução web, soluções, webfor, site, webbusiness, web business, web4 business, criação de sites, webquatro, webbrusque, E-commerce, E-comerce, Ecommerce, Desenvolvedor de Sites, Brusque, Sites, Web for, Media Solution, Media';
+$description = $facebook_description = substr(strip_tags('<p>Desenvolvimento Web, uma empresa de Criação de Sites e Sistemas Web com atendimento personalizado. Criação de Sites é com a Media Solution. Desenvolva seu website com a Media Solution e tenha benefícios únicos.</p>'), 0, 200);
+$facebook_image = htmlentities($root . 'img/' . $foto);
+
+
+
+
+include_once 'head.php'?>
 
 <body>
 

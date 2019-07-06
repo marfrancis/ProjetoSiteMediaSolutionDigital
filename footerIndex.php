@@ -41,6 +41,7 @@
                                     </div>
                                     <ul class="footer-list">
                                         <li><a href="#">Campanha Digital</a></li>
+                                        <li><a href="#">Gerenciamento de Midias Sociais</a></li>
                                         <li><a href="#">SEO</a></li>
                                     </ul>
                                 </div>
@@ -66,10 +67,10 @@
                                         os seus
                                         projetos realidade.</p>
                                     <ul class="social">
-                                        <li><a href="#"><i class="bi bi-facebook"></i></a></li>
-                                        <li><a href="#"><i class="bi bi-twitter-bird"></i></a></li>
-                                        <li><a href="#"><i class="bi bi-twitter"></i></a></li>
-                                        <li><a href="#"><i class="bi bi-youtube"></i></a></li>
+                                        <li><a href="https://www.facebook.com/mediasolutiondigital/" target="_blank"><i class="fab fa-facebook"></i></a></li>
+                                        <li><a href="https://twitter.com/MediaSolutionD1" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
                                     </ul>
                                 </div>
                                 <!--// Footer-info End -->
@@ -88,7 +89,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="footer-bottom-inner text-black text-center">
-                        <p>Copyright &copy; Media Solution Digital 2019 Todos os Direitos Reservados</p>
+                        <p>Copyright &copy; Media Solution Digital 2019 - Todos os Direitos Reservados</p>
                     </div>
                 </div>
             </div>

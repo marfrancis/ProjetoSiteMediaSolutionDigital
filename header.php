@@ -5,7 +5,7 @@
                 <div class="col-lg-4">
                     <!-- logo Start -->
                     <div class="logo">
-                        <a href="index.html"><img src="assets/images/logo/logo3.png" alt=""></a>
+                        <a href="index.php"><img src="assets/images/logo/logo3.png" alt=""></a>
                     </div>
                     <!--// logo End -->
                 </div>

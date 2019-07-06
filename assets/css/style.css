@@ -1732,6 +1732,15 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 /*--
     06. About Css
 -------------------------*/
+
+/* alinhamneto membros */
+.alignMembers {   
+  justify-content: center;
+
+}
+
+
+
 .about-us-wrap {
   margin-top: 30px;
 }
