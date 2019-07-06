@@ -69,7 +69,7 @@
                                     <ul class="social">
                                         <li><a href="https://www.facebook.com/mediasolutiondigital/" target="_blank"><i class="fab fa-facebook"></i></a></li>
                                         <li><a href="https://twitter.com/MediaSolutionD1" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                        <li><a href="https://www.instagram.com/mediasolutiondigital/" target="_blank"><i class="fab fa-instagram"></i></a></li>
                                         <li><a href="#"><i class="fab fa-youtube"></i></a></li>
                                     </ul>
                                 </div>
