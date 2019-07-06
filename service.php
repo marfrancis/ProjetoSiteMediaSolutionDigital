@@ -56,7 +56,7 @@ include_once 'head.php' ?>
                             <a href="internaSites.php">
                                 <div class="single-feature mt--30">
                                     <div class="feature-icon">
-                                        <span class="bi bi-globe2"></span>
+                                        <span class="fas fa-laptop-code"></span>
                                     </div>
                                     <div class="feature-text">
                                         <h3>Criação de Sites</h3>
@@ -72,7 +72,7 @@ include_once 'head.php' ?>
                             <a href="internaApps.php">
                                 <div class="single-feature active mt--30">
                                     <div class="feature-icon">
-                                        <span class="bi bi-screen"></span>
+                                        <span class="fas fa-mobile-alt"></span>
                                     </div>
                                     <div class="feature-text">
                                         <h3>Desenvolvimento de Apps iOS e Android.</h3>
@@ -89,7 +89,7 @@ include_once 'head.php' ?>
                             <a href="internaRegistroHosp.php">
                                 <div class="single-feature mt--30">
                                     <div class="feature-icon">
-                                        <span class="bi bi-headset"></span>
+                                        <span class="fas fa-server"></span>
                                     </div>
                                     <div class="feature-text">
                                         <h3>Registro e Hospedagem de domínios</h3>
@@ -106,7 +106,7 @@ include_once 'head.php' ?>
                             <a href="internaIdentVisual.php">
                                 <div class="single-feature mt--30">
                                     <div class="feature-icon">
-                                        <span class="bi bi-cloud-up"></span>
+                                        <span class="fas fa-palette"></span>
                                     </div>
                                     <div class="feature-text">
                                         <h3>Identidade Visual</h3>
@@ -124,7 +124,7 @@ include_once 'head.php' ?>
                             <a href="internaLogos.php">
                                 <div class="single-feature active mt--30">
                                     <div class="feature-icon">
-                                        <span class="bi bi-nuclear-circle"></span>
+                                        <span class="fas fa-pen-fancy"></span>
                                     </div>
                                     <div class="feature-text">
                                         <h3>Criação de Logos</h3>
@@ -140,7 +140,7 @@ include_once 'head.php' ?>
                             <a href="internaArtesProjetos.php">
                                 <div class="single-feature mt--30">
                                     <div class="feature-icon">
-                                        <span class="bi bi-paper"></span>
+                                        <span class="fas fa-project-diagram"></span>
                                     </div>
                                     <div class="feature-text">
                                         <h3>Criação da arte de projetos e apresentações</h3>
@@ -156,7 +156,7 @@ include_once 'head.php' ?>
                             <a href="internaCampDigital.php">
                                 <div class="single-feature mt--30">
                                     <div class="feature-icon">
-                                        <span class="bi bi-paper"></span>
+                                        <span class="fas fa-bullseye"></span>
                                     </div>
                                     <div class="feature-text">
                                         <h3>Campanha digital</h3>
@@ -174,7 +174,7 @@ include_once 'head.php' ?>
                             <a href="internaSEO.php">
                                 <div class="single-feature mt--30">
                                     <div class="feature-icon">
-                                        <span class="bi bi-paper"></span>
+                                        <span class="fab fa-google"></span>
                                     </div>
                                     <div class="feature-text">
                                         <h3>SEO - Otimização de Sites</h3>
@@ -191,10 +191,10 @@ include_once 'head.php' ?>
                             <a href="internaVideos.php">
                                 <div class="single-feature mt--30">
                                     <div class="feature-icon">
-                                        <span class="bi bi-paper"></span>
+                                        <span class="fas fa-film"></span>
                                     </div>
                                     <div class="feature-text">
-                                        <h3>Edições de Vídeos</h3>
+                                        <h3>Edição de Vídeos</h3>
                                         <p>Quer um vídeo bem editado para seu canal de YouTube, apresentação de trabalho
                                             ou
                                             outras situações? A Media Solution te oferece isso.</p>

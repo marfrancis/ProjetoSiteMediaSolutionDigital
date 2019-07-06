@@ -73,7 +73,7 @@ include_once 'head.php'?>
                         <!-- single-service Start -->
                         <div class="single-service text-center">
                             <div class="service-icon">
-                                <span class="bi bi-screen"></span>
+                                <span class="fas fa-laptop-code"></span>
                             </div>
                             <!--// service-icon -->
 
@@ -89,7 +89,7 @@ include_once 'head.php'?>
                         <!-- single-service Start -->
                         <div class="single-service text-center">
                             <div class="service-icon">
-                                <span class="bi bi-tools"></span>
+                                <span class="fas fa-pencil-alt"></span>
                             </div>
                             <!--// service-icon -->
 
@@ -105,7 +105,7 @@ include_once 'head.php'?>
                         <!-- single-service Start -->
                         <div class="single-service text-center">
                             <div class="service-icon">
-                                <span class="bi bi-globe4"></span>
+                                <span class="fas fa-bullseye"></span>
                             </div>
                             <!--// service-icon -->
 
@@ -143,7 +143,7 @@ include_once 'head.php'?>
                                 <a class="case-image" href="#"><img src="assets/images/case/01.jpg" alt=""></a>
                             </div>
                             <div class="case-content">
-                                <h3><a href="#">CLIENTE 1</a></h3>
+                                <h3><a href="#">Marcelo Ribeiro</a></h3>
                                 <p>Randomised words which don't look n slightly believable. If you are going to use a
                                     passayou need to be sure kew ki..</p>
                             </div>
