@@ -87,7 +87,7 @@ include_once 'head.php'?>
                 <!-- counter start -->
                 <div class="counter text-center mt--30">
                     <div class="count-icon">
-                        <i class="bi bi-cup"></i>
+                        <i class="fas fa-trophy"></i>
                     </div>
                     <h3 class="counter-active">1</h3>
                     <p>Premios</p>
@@ -98,7 +98,7 @@ include_once 'head.php'?>
                 <!-- counter start -->
                 <div class="counter text-center mt--30">
                     <div class="count-icon">
-                        <i class="bi bi-like"></i>
+                        <i class="fas fa-thumbs-up"></i>
                     </div>
                     <h3 class="counter-active">14</h3>
                     <p>Projetos Concluidos</p>
@@ -109,7 +109,7 @@ include_once 'head.php'?>
                 <!-- counter start --> 
                 <div class="counter text-center mt--30">
                     <div class="count-icon">
-                        <i class="bi bi-emo-smile"></i>
+                        <i class="fas fa-smile"></i>
                     </div>
                     <h3 class="counter-active">25</h3>
                     <p>Clientes Satisfeitos</p>
@@ -120,7 +120,7 @@ include_once 'head.php'?>
                 <!-- counter start -->
                 <div class="counter text-center mt--30">
                     <div class="count-icon">
-                        <i class="bi bi-screen"></i>
+                        <i class="fas fa-desktop"></i>
                     </div>
                     <h3 class="counter-active">12</h3>
                     <p>Projetos em Execução</p>

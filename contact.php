@@ -62,7 +62,7 @@ include_once 'head.php'?>
                                 <!-- single-contact Start -->
                                 <div class="single-contact-info text-center mt--30">
                                     <div class="contact-info-icon">
-                                        <span class="bi bi-location-pointer"></span>
+                                        <span class="fas fa-map-marker-alt"></span>
                                     </div> <!--// contact-icon -->
 
                                     <div class="contact-info">
@@ -75,7 +75,7 @@ include_once 'head.php'?>
                                 <!-- single-contact Start -->
                                 <div class="single-contact-info text-center mt--30">
                                     <div class="contact-info-icon">
-                                        <span class="bi bi-envelop"></span>
+                                        <span class="fas fa-envelope"></span>
                                     </div> <!--// contact-icon -->
 
                                     <div class="contact-info">
@@ -88,7 +88,7 @@ include_once 'head.php'?>
                                 <!-- single-contact Start -->
                                 <div class="single-contact-info text-center mt--30">
                                     <div class="contact-info-icon">
-                                        <span class="bi bi-phone"></span>
+                                        <span class="fas fa-phone"></span>
                                     </div> <!--// contact-icon -->
 
                                     <div class="contact-info">
