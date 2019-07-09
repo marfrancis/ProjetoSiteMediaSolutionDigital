@@ -143,7 +143,7 @@ include_once 'head.php'?>
                                 <a class="case-image" href="#"><img src="assets/images/case/01.jpg" alt=""></a>
                             </div>
                             <div class="case-content">
-                                <h3><a href="#">Marcelo Ribeiro</a></h3>
+                                <h3><a href="#">Marcelo Ribeiro Patisserie</a></h3>
                                 <p>Randomised words which don't look n slightly believable. If you are going to use a
                                     passayou need to be sure kew ki..</p>
                             </div>
@@ -379,6 +379,7 @@ include_once 'head.php'?>
     <script src="assets/js/ajax-mail.js"></script>
     <!-- Main JS -->
     <script src="assets/js/main.js"></script>
+
 
 
 </body>

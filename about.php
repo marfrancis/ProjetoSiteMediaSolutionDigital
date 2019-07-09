@@ -158,12 +158,12 @@ include_once 'head.php'?>
                     <!-- Single Team Start -->
                     <div class="single-team mt--30">
                         <div class="team-imgae">
-                            <img src="assets/images/team/02.jpg" alt="">
+                            <img src="assets/images/members/thiago_members.jpg" alt="">
                             <div class="social-link">
-                                <a href="#"><i class="fab fa-facebook"></i></a>
+                                <a href="https://www.facebook.com/thiago.fontanella"><i class="fab fa-facebook"></i></a>
                                 <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-linkedin"></i></a>
+                                <a href="https://www.instagram.com/thiagofontanella/?hl=pt-br"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.linkedin.com/in/thiago-fontanella-615220188/"><i class="fab fa-linkedin"></i></a>
                             </div>
                         </div>
                         <div class="team-info">
@@ -205,6 +205,7 @@ include_once 'head.php'?>
 <script src="assets/js/ajax-mail.js"></script>
 <!-- Main JS -->
 <script src="assets/js/main.js"></script>
+
 
 
 </body>

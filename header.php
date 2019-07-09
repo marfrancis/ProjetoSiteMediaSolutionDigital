@@ -20,6 +20,7 @@
                                 <li><a href="about.php">SOBRE</a></li>
                                 <li><a href="blog.php">BLOG</a></li>
                                 <li><a href="contact.php">CONTATO</a></li>
+                                <li><a href="ingles/index.php"><img src="assets/images/linguas/bandeira_usa.png" width="30rem" alt=""></a></li>
                             </ul>
                         </nav>
                     </div>
