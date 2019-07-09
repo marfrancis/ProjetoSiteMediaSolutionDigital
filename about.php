@@ -83,23 +83,8 @@ include_once 'head.php'?>
     <div class="project-count-inner section-pb overlay-bg section-pt-80">
         <div class="container">
             <div class="row">
-<<<<<<< HEAD
             
             <div class="col-lg-4 col-sm-6">
-=======
-            <div class="col-lg-3 col-sm-6">
-                <!-- counter start -->
-                <div class="counter text-center mt--30">
-                    <div class="count-icon">
-                        <i class="fas fa-trophy"></i>
-                    </div>
-                    <h3 class="counter-active">1</h3>
-                    <p>Premios</p>
-                </div>
-                <!-- counter end -->
-            </div>
-            <div class="col-lg-3 col-sm-6">
->>>>>>> 69118c39ba94cfb016827abe3fbbe4b06b5ed78e
                 <!-- counter start -->
                 <div class="counter text-center mt--30">
                     <div class="count-icon">
