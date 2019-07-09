@@ -47,29 +47,14 @@
                             </div>
                             <div class="col-lg-12">
                                 <div class="project-details">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia odio temporibus
-                                        distinctio repudiandae eum nostrum amet quam consequatur incidunt reprehenderit
-                                        unde
-                                        facilis ea corporis eos voluptatibus delectus minima eius veritatis, officiis
-                                        eaque!
-                                        Corrupti quos quia beatae obcaecati vero quisquam at iste rem quam ab
-                                        necessitatibus
-                                        tempora natus.</p>
+                                    <p>A Media Solution Digital torna sua iniciativa e seu sonho em realidade com o
+                                            registro e a hospedagem de novos domínios, para que sua marca seja única.</p>
                                 </div>
                             </div>
                             
                             <div class="col-12">
                                 <div class="project-details-cont mt--30">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid molestias in
-                                        eligendi omnis, amet ipsum, consequatur autem illo dolorum fugit doloremque.
-                                        Ipsam sapiente itaque illum sunt eius cupiditate nihil, rerum vero corrupti,
-                                        animi iure quis atque expedita. Tenetur corporis fugit non, eius error
-                                        voluptatem quae cum quisquam necessitatibus! Debitis eos id hic, repellendus,
-                                        nihil alias rem earum dolores voluptatibus enim, fuga reprehenderit numquam
-                                        commodi minima maiores harum dignissimos magni tempore. Expedita consectetur
-                                        consequatur officiis suscipit inventore nam culpa aliquam quaerat, perferendis
-                                        nulla consequuntur et libero ipsam sit, esse id veritatis alias iusto unde, sed
-                                        repellat earum placeat perspiciatis! Eum, illo!</p>
+                                    <p>Nada adianta possuir um site agradável e funcional se você não consegue botá-lo para funcionar, certo? É muito importante para seu serviço a criação de websites, para ampliação e divulgação da marca, além de ter um contato mais próximo com os clientes. Pensando nesses fatores, a Media Solution faz o registro e/ ou a hospedagem do seu site, seja nós que tenhamos feito o site ou não. Não perca a oportunidade de ter um site no ar, você não vai se arrepender!</p>
                                 </div>
                             </div>
                         </div>

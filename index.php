@@ -129,7 +129,7 @@ include_once 'head.php'?>
                     <div class="col-lg-12">
                         <!-- section-title Start -->
                         <div class="section-title">
-                            <h4>Portifólio</h4>
+                            <h4>Portfólio</h4>
                             <h3>Nosso <span>Portfólio</span></h3>
                         </div>
                         <!--// section-title End -->

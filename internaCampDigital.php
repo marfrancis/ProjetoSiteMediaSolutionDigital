@@ -47,29 +47,16 @@
                             </div>
                             <div class="col-lg-12">
                                 <div class="project-details">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia odio temporibus
-                                        distinctio repudiandae eum nostrum amet quam consequatur incidunt reprehenderit
-                                        unde
-                                        facilis ea corporis eos voluptatibus delectus minima eius veritatis, officiis
-                                        eaque!
-                                        Corrupti quos quia beatae obcaecati vero quisquam at iste rem quam ab
-                                        necessitatibus
-                                        tempora natus.</p>
+                                    <p>Fazemos toda a campanha das suas mídias sociais. Artes, postagens,
+                                        divulgação.
+                                        Tudo para crescer a sua marca e tornar sua empresa um símbolo nos negócios
+                                        digitais.</p>
                                 </div>
                             </div>
-                            
+
                             <div class="col-12">
                                 <div class="project-details-cont mt--30">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid molestias in
-                                        eligendi omnis, amet ipsum, consequatur autem illo dolorum fugit doloremque.
-                                        Ipsam sapiente itaque illum sunt eius cupiditate nihil, rerum vero corrupti,
-                                        animi iure quis atque expedita. Tenetur corporis fugit non, eius error
-                                        voluptatem quae cum quisquam necessitatibus! Debitis eos id hic, repellendus,
-                                        nihil alias rem earum dolores voluptatibus enim, fuga reprehenderit numquam
-                                        commodi minima maiores harum dignissimos magni tempore. Expedita consectetur
-                                        consequatur officiis suscipit inventore nam culpa aliquam quaerat, perferendis
-                                        nulla consequuntur et libero ipsam sit, esse id veritatis alias iusto unde, sed
-                                        repellat earum placeat perspiciatis! Eum, illo!</p>
+                                    <p>Sua marca nas redes sociais não está conseguindo deslanchar, acha que está faltando alguma coisa? A Media Solution pode te oferecer uma solução. Fazemos a administração da sua conta digital, em qualquer rede social. Passamos pelas artes das postagens, descrição, divulgação e outros aspectos que com certeza vão marcar sua presença digital.</p>
                                 </div>
                             </div>
                         </div>
@@ -85,7 +72,7 @@
         <!-- Perfect-start-area  End -->
 
         <!-- Footer Area Start -->
-       <?php include_once 'footer.php' ?>
+        <?php include_once 'footer.php' ?>
         <!-- Footer Area End -->
 
 

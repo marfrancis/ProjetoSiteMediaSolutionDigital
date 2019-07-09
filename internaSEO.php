@@ -47,29 +47,15 @@
                             </div>
                             <div class="col-lg-12">
                                 <div class="project-details">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia odio temporibus
-                                        distinctio repudiandae eum nostrum amet quam consequatur incidunt reprehenderit
-                                        unde
-                                        facilis ea corporis eos voluptatibus delectus minima eius veritatis, officiis
-                                        eaque!
-                                        Corrupti quos quia beatae obcaecati vero quisquam at iste rem quam ab
-                                        necessitatibus
-                                        tempora natus.</p>
+                                    <p>Pensando nos mecanismos de buscas como Google, faremos seu site ficar entre
+                                            os 10
+                                            primeiros resultados em pesquisas relacionadas.</p>
                                 </div>
                             </div>
                             
                             <div class="col-12">
                                 <div class="project-details-cont mt--30">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid molestias in
-                                        eligendi omnis, amet ipsum, consequatur autem illo dolorum fugit doloremque.
-                                        Ipsam sapiente itaque illum sunt eius cupiditate nihil, rerum vero corrupti,
-                                        animi iure quis atque expedita. Tenetur corporis fugit non, eius error
-                                        voluptatem quae cum quisquam necessitatibus! Debitis eos id hic, repellendus,
-                                        nihil alias rem earum dolores voluptatibus enim, fuga reprehenderit numquam
-                                        commodi minima maiores harum dignissimos magni tempore. Expedita consectetur
-                                        consequatur officiis suscipit inventore nam culpa aliquam quaerat, perferendis
-                                        nulla consequuntur et libero ipsam sit, esse id veritatis alias iusto unde, sed
-                                        repellat earum placeat perspiciatis! Eum, illo!</p>
+                                    <p>Que se destacar na internet? A Media Solution consegue botar o seu site no topo dos resultados do Google em pesquisas relacionadas ao seu site através da otimização de sites. Com as técnicas do SEO, alcançaremos juntos o lugar desejado para o seu site, e onde ele merece estar: no topo!</p>
                                 </div>
                             </div>
                         </div>

@@ -47,29 +47,14 @@
                             </div>
                             <div class="col-lg-12">
                                 <div class="project-details">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia odio temporibus
-                                        distinctio repudiandae eum nostrum amet quam consequatur incidunt reprehenderit
-                                        unde
-                                        facilis ea corporis eos voluptatibus delectus minima eius veritatis, officiis
-                                        eaque!
-                                        Corrupti quos quia beatae obcaecati vero quisquam at iste rem quam ab
-                                        necessitatibus
-                                        tempora natus.</p>
+                                    <p>Pensando na identidade da sua marca, o Logo é muito importante. Nossos
+                                            designers garantem um logo conceitual e bem trabalhado.</p>
                                 </div>
                             </div>
                             
                             <div class="col-12">
                                 <div class="project-details-cont mt--30">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid molestias in
-                                        eligendi omnis, amet ipsum, consequatur autem illo dolorum fugit doloremque.
-                                        Ipsam sapiente itaque illum sunt eius cupiditate nihil, rerum vero corrupti,
-                                        animi iure quis atque expedita. Tenetur corporis fugit non, eius error
-                                        voluptatem quae cum quisquam necessitatibus! Debitis eos id hic, repellendus,
-                                        nihil alias rem earum dolores voluptatibus enim, fuga reprehenderit numquam
-                                        commodi minima maiores harum dignissimos magni tempore. Expedita consectetur
-                                        consequatur officiis suscipit inventore nam culpa aliquam quaerat, perferendis
-                                        nulla consequuntur et libero ipsam sit, esse id veritatis alias iusto unde, sed
-                                        repellat earum placeat perspiciatis! Eum, illo!</p>
+                                    <p>Quer um logo bonito, conceitual e trabalhado nos mínimos detalhes para dar uma boa impressão da sua marca? A Media Solution te oferece um serviço muito bem qualificado, como você pode ver no nosso portfólio e na arte de nosso própio site, pensamos nos pequenos detalhes para fazer o diferencial. Uma boa arte não vale muito sem um conceito, então pensamos en juntar os dois e entregar aos nossos clientes um trabalho espetacular, que definitivamente vai impulsionar a sua marca.</p>
                                 </div>
                             </div>
                         </div>

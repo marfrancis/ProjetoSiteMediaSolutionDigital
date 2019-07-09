@@ -47,29 +47,15 @@
                             </div>
                             <div class="col-lg-12">
                                 <div class="project-details">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia odio temporibus
-                                        distinctio repudiandae eum nostrum amet quam consequatur incidunt reprehenderit
-                                        unde
-                                        facilis ea corporis eos voluptatibus delectus minima eius veritatis, officiis
-                                        eaque!
-                                        Corrupti quos quia beatae obcaecati vero quisquam at iste rem quam ab
-                                        necessitatibus
-                                        tempora natus.</p>
+                                    <p>Com designers criativos, pensando em fazer sua marca única, oferecemos a
+                                            criação
+                                            da identidade visual da sua empresa ou iniciativa. </p>
                                 </div>
                             </div>
                             
                             <div class="col-12">
                                 <div class="project-details-cont mt--30">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid molestias in
-                                        eligendi omnis, amet ipsum, consequatur autem illo dolorum fugit doloremque.
-                                        Ipsam sapiente itaque illum sunt eius cupiditate nihil, rerum vero corrupti,
-                                        animi iure quis atque expedita. Tenetur corporis fugit non, eius error
-                                        voluptatem quae cum quisquam necessitatibus! Debitis eos id hic, repellendus,
-                                        nihil alias rem earum dolores voluptatibus enim, fuga reprehenderit numquam
-                                        commodi minima maiores harum dignissimos magni tempore. Expedita consectetur
-                                        consequatur officiis suscipit inventore nam culpa aliquam quaerat, perferendis
-                                        nulla consequuntur et libero ipsam sit, esse id veritatis alias iusto unde, sed
-                                        repellat earum placeat perspiciatis! Eum, illo!</p>
+                                    <p>É muito importante para sua marca que ela tenha uma identidade visual. Um padrão a ser seguidos em logos alternativos, diferentes aplicações, postagens em redes sociais, etc. Pensando nisso, a Media Solution oferece aos clientes a criação da identidade visual da sua marca. Um manual a ser seguido com requisitos como: tamanho mínimo do logo, cores, fontes, aplicações, impressão, etc. </p>
                                 </div>
                             </div>
                         </div>

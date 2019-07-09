@@ -3,7 +3,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="perfect-start-inner">
-                        <p>Faça seu negócio ser um sucesso agora!</p>
+                        <p>Peça um orçamento agora!</p>
                         <div class="get-started-button">
                             <a href="contact.php" class="start-btn">Entre em contato</a>
                         </div>

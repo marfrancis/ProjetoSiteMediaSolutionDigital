@@ -47,22 +47,13 @@
                             </div>
                             <div class="col-lg-12">
                                 <div class="project-details">
-                                    <p>A criação de sites é um dos carros chefes da Media Solution. Com programadores qualificados, podemos fazer tanto o Front-End (a parte visual) quanto o Back-End (Programação) do seu site. Prontos para encarar qualquer desafio, garantimos aos clientes um site totalmente funcional. Sempre pensando no melhor do consumidor, produzimos sites totalmente amigáveis ao usuário, aproveitando conceitos de UX e UI, tudo para que o usuário permaneça o maior tempo possível dentro do seu sistema.   </p>
+                                    <p>A criação de sites é um dos carros chefes da Media Solution. Com programadores qualificados, podemos fazer tanto o Front-End (a parte visual) quanto o Back-End (Programação) do seu site. Prontos para encarar qualquer desafio, garantimos aos clientes um site totalmente funcional. Sempre pensando no melhor do consumidor, produzimos sites totalmente amigáveis ao usuário, aproveitando conceitos de UX e UI. Fazemos tanto sites institucionais quanto comércio, qualquer tipo de sistema web.</p>
                                 </div>
                             </div>
                             
                             <div class="col-12">
                                 <div class="project-details-cont mt--30">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid molestias in
-                                        eligendi omnis, amet ipsum, consequatur autem illo dolorum fugit doloremque.
-                                        Ipsam sapiente itaque illum sunt eius cupiditate nihil, rerum vero corrupti,
-                                        animi iure quis atque expedita. Tenetur corporis fugit non, eius error
-                                        voluptatem quae cum quisquam necessitatibus! Debitis eos id hic, repellendus,
-                                        nihil alias rem earum dolores voluptatibus enim, fuga reprehenderit numquam
-                                        commodi minima maiores harum dignissimos magni tempore. Expedita consectetur
-                                        consequatur officiis suscipit inventore nam culpa aliquam quaerat, perferendis
-                                        nulla consequuntur et libero ipsam sit, esse id veritatis alias iusto unde, sed
-                                        repellat earum placeat perspiciatis! Eum, illo!</p>
+                                    <p>Encaramos qualquer tipo de tecnologia requisitada pelo cliente. Passamos pelo front-end com HTML5, CSS3 e JavaScript, até o back-end, com PHP, Banco de Dados, e muitas outras linguagens. Focamos sempre na perfomance, semântica e usabilidade do site, paramêtros que vão diferenciar o seu site do restante. </p>
                                 </div>
                             </div>
                         </div>

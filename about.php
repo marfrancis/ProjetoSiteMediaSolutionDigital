@@ -83,18 +83,8 @@ include_once 'head.php'?>
     <div class="project-count-inner section-pb overlay-bg section-pt-80">
         <div class="container">
             <div class="row">
-            <div class="col-lg-3 col-sm-6">
-                <!-- counter start -->
-                <div class="counter text-center mt--30">
-                    <div class="count-icon">
-                        <i class="bi bi-cup"></i>
-                    </div>
-                    <h3 class="counter-active">1</h3>
-                    <p>Premios</p>
-                </div>
-                <!-- counter end -->
-            </div>
-            <div class="col-lg-3 col-sm-6">
+            
+            <div class="col-lg-4 col-sm-6">
                 <!-- counter start -->
                 <div class="counter text-center mt--30">
                     <div class="count-icon">
@@ -105,7 +95,7 @@ include_once 'head.php'?>
                 </div>
                 <!-- counter end -->
             </div>
-            <div class="col-lg-3 col-sm-6">
+            <div class="col-lg-4 col-sm-6">
                 <!-- counter start --> 
                 <div class="counter text-center mt--30">
                     <div class="count-icon">
@@ -116,7 +106,7 @@ include_once 'head.php'?>
                 </div>
                 <!-- counter end -->
             </div>
-            <div class="col-lg-3 col-sm-6">
+            <div class="col-lg-4 col-sm-6">
                 <!-- counter start -->
                 <div class="counter text-center mt--30">
                     <div class="count-icon">

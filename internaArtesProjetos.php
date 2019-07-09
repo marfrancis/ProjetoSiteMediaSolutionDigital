@@ -47,22 +47,14 @@
                             </div>
                             <div class="col-lg-12">
                                 <div class="project-details">
-                                    <p>Vai fazer uma apostila, um livro, ebook ou apresentação e quer alguém pra fazer a arte de seu projeto? A Media Solution trabalha com ótimos designers que vão fazer o visual do seu trabalho ficar excelente.</p>
+                                    <p>Apostilas, livros e apresentações. A Media Solution faz toda a arte de seus
+                                            projetos, tornando-o um sucesso.</p>
                                 </div>
                             </div>
                             
                             <div class="col-12">
                                 <div class="project-details-cont mt--30">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid molestias in
-                                        eligendi omnis, amet ipsum, consequatur autem illo dolorum fugit doloremque.
-                                        Ipsam sapiente itaque illum sunt eius cupiditate nihil, rerum vero corrupti,
-                                        animi iure quis atque expedita. Tenetur corporis fugit non, eius error
-                                        voluptatem quae cum quisquam necessitatibus! Debitis eos id hic, repellendus,
-                                        nihil alias rem earum dolores voluptatibus enim, fuga reprehenderit numquam
-                                        commodi minima maiores harum dignissimos magni tempore. Expedita consectetur
-                                        consequatur officiis suscipit inventore nam culpa aliquam quaerat, perferendis
-                                        nulla consequuntur et libero ipsam sit, esse id veritatis alias iusto unde, sed
-                                        repellat earum placeat perspiciatis! Eum, illo!</p>
+                                    <p>Dia importante no trabalho ou faculdade, e você precisa fazer uma apresentação importante mas não sabe como fazer a parte visual do seu projeto, como proceder? Chame a Media Solution! Nós produzimos artes para apresentações, cartões de visita, apostilas, livros, qualquer projeto que você tenha em mente, seja ele digital ou não.</p>
                                 </div>
                             </div>
                         </div>
