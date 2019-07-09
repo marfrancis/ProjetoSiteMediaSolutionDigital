@@ -31,8 +31,7 @@
 		<?php endif ?>
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
-    
-       
+    <link rel="stylesheet" href="assets/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 
     <!-- CSS 
     ========================= -->
@@ -41,8 +40,7 @@
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 
     <!-- Fonts CSS -->
-	<link rel="stylesheet" href="assets/css/all.css">
-    <link rel="stylesheet" href="assets/css/bicon.min.css">
+    
 	<link href="assets/css/fontawesome.css" rel="stylesheet">
  	<link href="assets/css/brands.css" rel="stylesheet">
   	<link href="assets/css/solid.css" rel="stylesheet">
