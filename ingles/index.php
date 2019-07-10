@@ -64,7 +64,7 @@ include_once 'head.php'?>
                         <!-- section-title Start -->
                         <div class="section-title">
                             <h4>SERVICES</h4>
-                            <h3>What We<span>Do</span></h3>
+                            <h3>What We <span>Do</span></h3>
                         </div>
                         <!--// section-title End -->
                     </div>
@@ -144,7 +144,7 @@ include_once 'head.php'?>
                         <!-- single-case-item Start -->
                         <div class="single-case-item">
                             <div class="single-case-image">
-                                <a class="case-image" href="#"><img src="assets/images/case/01.jpg" alt=""></a>
+                                <a class="case-image" href="http://www.marceloribeiropatisserie.com.br/"  target="_blank"><img src="assets/images/case/01.jpg" alt=""></a>
                             </div>
                             <div class="case-content">
                                 <h3><a href="#">Marcelo Ribeiro Patisserie</a></h3>
