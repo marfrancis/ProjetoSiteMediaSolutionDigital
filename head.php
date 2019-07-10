@@ -30,20 +30,7 @@
 			<!-- O que tiver aqui dentro o page speed do Google não consegue ver -->
 		<?php endif ?>
     <!-- Favicon -->
-	<style type="text/css">
-    #google_translate_element {
-        display: none;
-    }
-    
-    .goog-te-banner-frame {
-        display: none !important;
-    }
-    body {
-        position: static !important;
-        top: 0 !important;
-    }
-    
-    </style>
+	
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
     <link rel="stylesheet" href="assets/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 
@@ -54,10 +41,12 @@
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 
     <!-- Fonts CSS -->
+
+    <script src="https://kit.fontawesome.com/edcfdf1ead.js"></script>
     
-	<link href="assets/css/fontawesome.css" rel="stylesheet">
+	<!-- <link href="assets/css/fontawesome.css" rel="stylesheet">
  	<link href="assets/css/brands.css" rel="stylesheet">
-  	<link href="assets/css/solid.css" rel="stylesheet">
+  	<link href="assets/css/solid.css" rel="stylesheet"> -->
 
     <!-- Plugins CSS -->
     <link rel="stylesheet" href="assets/css/plugins.css">
