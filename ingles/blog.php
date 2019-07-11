@@ -48,8 +48,8 @@ include_once 'head.php'?>
                             <a href="blog-details-left-sidebar.html"><img src="assets/images/blog/blog-01.jpg" alt=""></a>
                         </div>
                         <div class="latest-blog-cont">
-                            <h3><a href="blog-details-left-sidebar.html">Digatal marketing is one of the</a></h3>
-                            <p>Lorem Ipsum available, but the majority have suffered alteration in form.</p>
+                            <h3><a href="blog-details-left-sidebar.html">Why do eCommerce Businesses Fail?</a></h3>
+                            
                         </div>
                     </div><!--// single-latest-blog End -->
                 </div>

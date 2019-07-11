@@ -45,11 +45,11 @@ include_once 'head.php'?>
                     <!-- single-latest-blog Start -->
                     <div class="single-latest-blog mb--30">
                         <div class="latest-blog-image">
-                            <a href="blog-details-left-sidebar.html"><img src="assets/images/blog/blog-01.jpg" alt=""></a>
+                            <a href="blog-details-left-sidebar.php"><img src="assets/images/blog/blog-01.jpg" alt="Por que as empresas de comércio eletrônico falham?"></a>
                         </div>
                         <div class="latest-blog-cont">
-                            <h3><a href="blog-details-left-sidebar.html">Digatal marketing is one of the</a></h3>
-                            <p>Lorem Ipsum available, but the majority have suffered alteration in form.</p>
+                            <h3><a href="blog-details-left-sidebar.html">Por que as empresas de comércio eletrônico falham?</a></h3>
+                            
                         </div>
                     </div><!--// single-latest-blog End -->
                 </div>
@@ -57,11 +57,11 @@ include_once 'head.php'?>
                     <!-- single-latest-blog Start -->
                     <div class="single-latest-blog mb--30">
                         <div class="latest-blog-image">
-                            <a href="blog-details-left-sidebar.html"><img src="assets/images/blog/blog-04.jpg" alt=""></a>
+                            <a href="blog-details-left-sidebar2.php"><img src="assets/images/blog/blog-02.jpg" alt=""></a>
                         </div>
                         <div class="latest-blog-cont">
-                            <h3><a href="blog-details-left-sidebar.html">Keywords research is more then</a></h3>
-                            <p>Lorem Ipsum available, but the majority have suffered alteration in form.</p>
+                            <h3><a href="blog-details-left-sidebar.html">25 perguntas comuns de SEO e suas respostas</a></h3>
+                            
                         </div>
                     </div><!--// single-latest-blog End -->
                 </div>
