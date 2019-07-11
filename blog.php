@@ -69,10 +69,10 @@ include_once 'head.php'?>
                     <!-- single-latest-blog Start -->
                     <div class="single-latest-blog mb--30">
                         <div class="latest-blog-image">
-                            <a href="blog-details-left-sidebar.html"><img src="assets/images/blog/blog-03.jpg" alt=""></a>
+                            <a href="blog-details-left-sidebar3.php"><img src="assets/images/blog/blog-03.jpg" alt=""></a>
                         </div>
                         <div class="latest-blog-cont">
-                            <h3><a href="blog-details-left-sidebar.html">Por que a manutenção do site é importante para o seu negócio?</a></h3>
+                            <h3><a href="blog-details-left-sidebar3.php">Por que a manutenção do site é importante para o seu negócio?</a></h3>
                             
                         </div>
                     </div><!--// single-latest-blog End -->
@@ -81,10 +81,10 @@ include_once 'head.php'?>
                     <!-- single-latest-blog Start -->
                     <div class="single-latest-blog mb--30 ">
                         <div class="latest-blog-image">
-                            <a href="blog-details-left-sidebar.html"><img src="assets/images/blog/blog-04.jpg" alt=""></a>
+                            <a href="blog-details-left-sidebar4.php"><img src="assets/images/blog/blog-04.jpg" alt=""></a>
                         </div>
                         <div class="latest-blog-cont">
-                            <h3><a href="blog-details-left-sidebar.html">Como usar vídeos para expandir sua empresa on-line</a></h3>
+                            <h3><a href="blog-details-left-sidebar4.php">Como usar vídeos para expandir sua empresa on-line</a></h3>
                             
                         </div>
                     </div><!--// single-latest-blog End -->
@@ -93,10 +93,10 @@ include_once 'head.php'?>
                     <!-- single-latest-blog Start -->
                     <div class="single-latest-blog mb--30">
                         <div class="latest-blog-image">
-                            <a href="blog-details-left-sidebar.html"><img src="assets/images/blog/blog-05.jpg" alt=""></a>
+                            <a href="blog-details-left-sidebar5.php"><img src="assets/images/blog/blog-05.jpg" alt=""></a>
                         </div>
                         <div class="latest-blog-cont">
-                            <h3><a href="blog-details-left-sidebar.html">Web Design responsivo - a necessidade de hoje </a></h3>
+                            <h3><a href="blog-details-left-sidebar5.php">Web Design responsivo - a necessidade de hoje </a></h3>
                             
                         </div>
                     </div><!--// single-latest-blog End -->
@@ -105,10 +105,10 @@ include_once 'head.php'?>
                     <!-- single-latest-blog Start -->
                     <div class="single-latest-blog mb--30 ">
                         <div class="latest-blog-image">
-                            <a href="blog-details-left-sidebar.html"><img src="assets/images/blog/blog-06.jpg" alt=""></a>
+                            <a href="blog-details-left-sidebar6.php"><img src="assets/images/blog/blog-06.jpg" alt=""></a>
                         </div>
                         <div class="latest-blog-cont">
-                            <h3><a href="blog-details-left-sidebar.html">Qual plataforma de mídia social está certa para comercializar seu negócio?</a></h3>
+                            <h3><a href="blog-details-left-sidebar6.php">Qual plataforma de mídia social está certa para comercializar seu negócio?</a></h3>
                             
                         </div>
                     </div><!--// single-latest-blog End -->

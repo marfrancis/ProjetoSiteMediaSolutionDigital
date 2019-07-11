@@ -302,11 +302,11 @@ include_once 'head.php'?>
                         <!-- single-latest-blog Start -->
                         <div class="single-latest-blog mb--30 mt--30">
                             <div class="latest-blog-image">
-                                <a href="#"><img src="assets/images/blog/blog-01.jpg" alt=""></a>
+                                <a href="blog-details-left-sidebar.php"><img src="assets/images/blog/blog-01.jpg" alt=""></a>
                             </div>
                             <div class="latest-blog-cont">
-                                <h3><a href="#">Digatal marketing is one of the</a></h3>
-                                <p>Lorem Ipsum available, but the majority have suffered alteration in form.</p>
+                                <h3><a href="blog-details-left-sidebar.php">Por que as empresas de comércio eletrônico falham?</a></h3>
+                                
                             </div>
                         </div>
                         <!--// single-latest-blog End -->
@@ -315,11 +315,11 @@ include_once 'head.php'?>
                         <!-- single-latest-blog Start -->
                         <div class="single-latest-blog mb--30 mt--30">
                             <div class="latest-blog-image">
-                                <a href="#"><img src="assets/images/blog/blog-04.jpg" alt=""></a>
+                                <a href="blog-details-left-sidebar2.php"><img src="assets/images/blog/blog-02.jpg" alt=""></a>
                             </div>
                             <div class="latest-blog-cont">
-                                <h3><a href="#">Keywords research is more then</a></h3>
-                                <p>Lorem Ipsum available, but the majority have suffered alteration in form.</p>
+                                <h3><a href="blog-details-left-sidebar2.php">25 perguntas comuns de SEO e suas respostas</a></h3>
+                                
                             </div>
                         </div>
                         <!--// single-latest-blog End -->
@@ -328,28 +328,16 @@ include_once 'head.php'?>
                         <!-- single-latest-blog Start -->
                         <div class="single-latest-blog mb--30 mt--30">
                             <div class="latest-blog-image">
-                                <a href="#"><img src="assets/images/blog/blog-06.jpg" alt=""></a>
+                                <a href="blog-details-left-sidebar3.php"><img src="assets/images/blog/blog-03.jpg" alt=""></a>
                             </div>
                             <div class="latest-blog-cont">
-                                <h3><a href="#">For SEO marketing you have to</a></h3>
-                                <p>Lorem Ipsum available, but the majority have suffered alteration in form.</p>
+                                <h3><a href="blog-details-left-sidebar3.php">Por que a manutenção do site é importante para o seu negócio?</a></h3>
+                               
                             </div>
                         </div>
                         <!--// single-latest-blog End -->
                     </div>
-                    <div class="col-lg-4">
-                        <!-- single-latest-blog Start -->
-                        <div class="single-latest-blog mb--30 mt--30">
-                            <div class="latest-blog-image">
-                                <a href="#"><img src="assets/images/blog/blog-02.jpg" alt=""></a>
-                            </div>
-                            <div class="latest-blog-cont">
-                                <h3><a href="#">Keywords need to unlimited</a></h3>
-                                <p>Lorem Ipsum available, but the majority have suffered alteration in form.</p>
-                            </div>
-                        </div>
-                        <!--// single-latest-blog End -->
-                    </div>
+                    
                 </div>
             </div>
         </div>

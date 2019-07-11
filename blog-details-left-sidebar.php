@@ -67,20 +67,48 @@
                             <!-- sidbar-blog-inner start -->
                             <div class="sidbar-blog-inner">
                                 <div class="sidbar-blog-image">
-                                    <a href="product-details.html"><img src="assets/images/blog/blog-03.jpg" alt=""></a>
+                                    <a href="product-details6.php"><img src="assets/images/blog/blog-06.jpg" alt=""></a>
                                 </div>
                                 <div class="sidbar-blog-content text-left">
-                                    <h3><a href="blog-details.html">Cleaning & Optimization</a></h3>
+                                    <h3><a href="blog-details6.php">Qual plataforma de mídia social está certa para comercializar seu negócio?</a></h3>
+                                </div>
+                            </div>
+
+                            <div class="sidbar-blog-inner">
+                                <div class="sidbar-blog-image">
+                                    <a href="product-details5.php"><img src="assets/images/blog/blog-05.jpg" alt=""></a>
+                                </div>
+                                <div class="sidbar-blog-content text-left">
+                                    <h3><a href="blog-details5.php">Web Design responsivo - a necessidade de hoje</a></h3>
+                                </div>
+                            </div>
+
+                            <div class="sidbar-blog-inner">
+                                <div class="sidbar-blog-image">
+                                    <a href="product-details4.php"><img src="assets/images/blog/blog-04.jpg" alt=""></a>
+                                </div>
+                                <div class="sidbar-blog-content text-left">
+                                    <h3><a href="blog-details4.php">Como usar vídeos para expandir sua empresa on-line</a></h3>
+                                </div>
+                            </div>
+
+
+                            <div class="sidbar-blog-inner">
+                                <div class="sidbar-blog-image">
+                                    <a href="product-details3.php"><img src="assets/images/blog/blog-03.jpg" alt=""></a>
+                                </div>
+                                <div class="sidbar-blog-content text-left">
+                                    <h3><a href="blog-details3.php">Por que a manutenção do site é importante para o seu negócio?</a></h3>
                                 </div>
                             </div>
                             <!-- sidbar-blog-inner end -->
                             <!-- sidbar-blog-inner start -->
                             <div class="sidbar-blog-inner">
                                 <div class="sidbar-blog-image">
-                                    <a href="blog-details.html"><img src="assets/images/blog/blog-02.jpg" alt=""></a>
+                                    <a href="blog-details2.php"><img src="assets/images/blog/blog-02.jpg" alt=""></a>
                                 </div>
                                 <div class="sidbar-blog-content text-left">
-                                    <h3><a href="blog-details.html">A/C Installation</a></h3>
+                                    <h3><a href="blog-details2.php">25 perguntas comuns de SEO e suas respostas</a></h3>
                                 </div>
                             </div>
                             <!-- sidbar-blog-inner end -->

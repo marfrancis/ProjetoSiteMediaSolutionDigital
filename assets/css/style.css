@@ -2217,6 +2217,12 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 /*--
     11. Blog Css
 -----------------------------*/
+
+.blog-list {
+  list-style-type: disc;
+}
+
+
 .single-latest-blog {
   box-shadow: 0px 5px 10px 0 rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease-in-out;
