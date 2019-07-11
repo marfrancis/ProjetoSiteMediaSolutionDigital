@@ -48,7 +48,7 @@ include_once 'head.php'?>
                             <a href="blog-details-left-sidebar.php"><img src="assets/images/blog/blog-01.jpg" alt="Por que as empresas de comércio eletrônico falham?"></a>
                         </div>
                         <div class="latest-blog-cont">
-                            <h3><a href="blog-details-left-sidebar.html">Por que as empresas de comércio eletrônico falham?</a></h3>
+                            <h3><a href="blog-details-left-sidebar.php">Por que as empresas de comércio eletrônico falham?</a></h3>
                             
                         </div>
                     </div><!--// single-latest-blog End -->
@@ -60,32 +60,8 @@ include_once 'head.php'?>
                             <a href="blog-details-left-sidebar2.php"><img src="assets/images/blog/blog-02.jpg" alt=""></a>
                         </div>
                         <div class="latest-blog-cont">
-                            <h3><a href="blog-details-left-sidebar.html">25 perguntas comuns de SEO e suas respostas</a></h3>
+                            <h3><a href="blog-details-left-sidebar2.php">25 perguntas comuns de SEO e suas respostas</a></h3>
                             
-                        </div>
-                    </div><!--// single-latest-blog End -->
-                </div>
-                <div class="col-lg-4">
-                    <!-- single-latest-blog Start -->
-                    <div class="single-latest-blog mb--30">
-                        <div class="latest-blog-image">
-                            <a href="blog-details-left-sidebar.html"><img src="assets/images/blog/blog-06.jpg" alt=""></a>
-                        </div>
-                        <div class="latest-blog-cont">
-                            <h3><a href="blog-details-left-sidebar.html">For SEO marketing you have to</a></h3>
-                            <p>Lorem Ipsum available, but the majority have suffered alteration in form.</p>
-                        </div>
-                    </div><!--// single-latest-blog End -->
-                </div>
-                <div class="col-lg-4">
-                    <!-- single-latest-blog Start -->
-                    <div class="single-latest-blog mb--30 ">
-                        <div class="latest-blog-image">
-                            <a href="blog-details-left-sidebar.html"><img src="assets/images/blog/blog-02.jpg" alt=""></a>
-                        </div>
-                        <div class="latest-blog-cont">
-                            <h3><a href="blog-details-left-sidebar.html">Keywords need to unlimited</a></h3>
-                            <p>Lorem Ipsum available, but the majority have suffered alteration in form.</p>
                         </div>
                     </div><!--// single-latest-blog End -->
                 </div>
@@ -96,8 +72,8 @@ include_once 'head.php'?>
                             <a href="blog-details-left-sidebar.html"><img src="assets/images/blog/blog-03.jpg" alt=""></a>
                         </div>
                         <div class="latest-blog-cont">
-                            <h3><a href="blog-details-left-sidebar.html">SEO marketing you have </a></h3>
-                            <p>Lorem Ipsum available, but the majority have suffered alteration in form.</p>
+                            <h3><a href="blog-details-left-sidebar.html">Por que a manutenção do site é importante para o seu negócio?</a></h3>
+                            
                         </div>
                     </div><!--// single-latest-blog End -->
                 </div>
@@ -105,11 +81,35 @@ include_once 'head.php'?>
                     <!-- single-latest-blog Start -->
                     <div class="single-latest-blog mb--30 ">
                         <div class="latest-blog-image">
+                            <a href="blog-details-left-sidebar.html"><img src="assets/images/blog/blog-04.jpg" alt=""></a>
+                        </div>
+                        <div class="latest-blog-cont">
+                            <h3><a href="blog-details-left-sidebar.html">Como usar vídeos para expandir sua empresa on-line</a></h3>
+                            
+                        </div>
+                    </div><!--// single-latest-blog End -->
+                </div>
+                <div class="col-lg-4">
+                    <!-- single-latest-blog Start -->
+                    <div class="single-latest-blog mb--30">
+                        <div class="latest-blog-image">
                             <a href="blog-details-left-sidebar.html"><img src="assets/images/blog/blog-05.jpg" alt=""></a>
                         </div>
                         <div class="latest-blog-cont">
-                            <h3><a href="blog-details-left-sidebar.html">Research is more Keywords</a></h3>
-                            <p>Lorem Ipsum available, but the majority have suffered alteration in form.</p>
+                            <h3><a href="blog-details-left-sidebar.html">Web Design responsivo - a necessidade de hoje </a></h3>
+                            
+                        </div>
+                    </div><!--// single-latest-blog End -->
+                </div>
+                <div class="col-lg-4">
+                    <!-- single-latest-blog Start -->
+                    <div class="single-latest-blog mb--30 ">
+                        <div class="latest-blog-image">
+                            <a href="blog-details-left-sidebar.html"><img src="assets/images/blog/blog-06.jpg" alt=""></a>
+                        </div>
+                        <div class="latest-blog-cont">
+                            <h3><a href="blog-details-left-sidebar.html">Qual plataforma de mídia social está certa para comercializar seu negócio?</a></h3>
+                            
                         </div>
                     </div><!--// single-latest-blog End -->
                 </div>
@@ -119,13 +119,13 @@ include_once 'head.php'?>
                 <div class="row">
                     <div class="col-lg-12">
                         <ul class="pagination-box">
-                            <li><a class="Previous" href="#">Previous</a>
+                            <li><a class="Previous" href="#">Anterior</a>
                             </li>
                             <li class="active"><a href="#">1</a></li>
                             <li><a href="#">2</a></li>
                             <li><a href="#">3</a></li>
                             <li>
-                              <a class="Next" href="#">Next </a>
+                              <a class="Next" href="#">Próxima</a>
                             </li>
                         </ul>
                     </div>
