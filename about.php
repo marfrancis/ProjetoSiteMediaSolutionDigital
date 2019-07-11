@@ -124,57 +124,7 @@ include_once 'head.php'?>
     
     
     <!-- Our Team Area Start -->
-    <div class="our-team-area bg-grey section-ptb">
-        <div class="container">
-           <div class="row">
-                <div class="col-lg-12">
-                    <!-- section-title Start -->
-                    <div class="section-title">
-                        <h4>Time</h4>
-                        <h3>Nossos  <span>Membros</span></h3>
-                    </div>
-                    <!--// section-title End -->
-                </div>
-            </div>
-            <div class="row alignMembers">
-                <div class="col-lg-3 col-md-6">
-                    <!-- Single Team Start -->
-                    <div class="single-team mt--30">
-                        <div class="team-imgae">
-                            <img src="assets/images/team/01.jpg" alt="">
-                            <div class="social-link">
-                            <a href="#"><i class="fab fa-facebook"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="team-info">
-                            <h3>Marcelo Francis</h3>
-                        </div>
-                    </div><!--// Single Team End -->
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <!-- Single Team Start -->
-                    <div class="single-team mt--30">
-                        <div class="team-imgae">
-                            <img src="assets/images/members/thiago_members.jpg" alt="">
-                            <div class="social-link">
-                                <a href="https://www.facebook.com/thiago.fontanella"><i class="fab fa-facebook"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="https://www.instagram.com/thiagofontanella/?hl=pt-br"><i class="fab fa-instagram"></i></a>
-                                <a href="https://www.linkedin.com/in/thiago-fontanella-615220188/"><i class="fab fa-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="team-info">
-                            <h3>Thiago Fontanella</h3>
-                        </div>
-                    </div><!--// Single Team End -->
-                </div>
-                
-            </div>
-        </div>
-    </div>
+    
     <!-- Our Team Area End -->
     
     <!-- Perfect-start-area  Start -->
