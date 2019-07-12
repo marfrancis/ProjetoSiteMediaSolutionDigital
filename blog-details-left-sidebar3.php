@@ -20,7 +20,7 @@
                     <h2 class="breadcrumb-title">Blog Detalhes</h2>
                     <!-- breadcrumb-list start -->
                     <ul class="breadcrumb-list">
-                        <li class="breadcrumb-item"><a href="index.html">Blog Detalhes</a></li>
+                        <li class="breadcrumb-item"><a href="index.php">Blog Detalhes</a></li>
                         <li class="breadcrumb-item active">Blog</li>
                     </ul>
                     <!-- breadcrumb-list end -->
@@ -67,7 +67,7 @@
                             <!-- sidbar-blog-inner start -->
                             <div class="sidbar-blog-inner">
                                 <div class="sidbar-blog-image">
-                                    <a href="product-details6.php"><img src="assets/images/blog/blog-06.jpg" alt=""></a>
+                                    <a href="product-details6.php"><img src="assets/images/blog/blog-06.jpg" alt="Qual plataforma de mídia social está certa para comercializar seu negócio?"></a>
                                 </div>
                                 <div class="sidbar-blog-content text-left">
                                     <h3><a href="blog-details6.php">Qual plataforma de mídia social está certa para comercializar seu negócio?</a></h3>
@@ -76,7 +76,7 @@
 
                             <div class="sidbar-blog-inner">
                                 <div class="sidbar-blog-image">
-                                    <a href="product-details5.php"><img src="assets/images/blog/blog-05.jpg" alt=""></a>
+                                    <a href="product-details5.php"><img src="assets/images/blog/blog-05.jpg" alt="Web Design responsivo - a necessidade de hoje"></a>
                                 </div>
                                 <div class="sidbar-blog-content text-left">
                                     <h3><a href="blog-details5.php">Web Design responsivo - a necessidade de hoje</a></h3>
@@ -85,7 +85,7 @@
 
                             <div class="sidbar-blog-inner">
                                 <div class="sidbar-blog-image">
-                                    <a href="product-details4.php"><img src="assets/images/blog/blog-04.jpg" alt=""></a>
+                                    <a href="product-details4.php"><img src="assets/images/blog/blog-04.jpg" alt="Como usar vídeos para expandir sua empresa on-line"></a>
                                 </div>
                                 <div class="sidbar-blog-content text-left">
                                     <h3><a href="blog-details4.php">Como usar vídeos para expandir sua empresa on-line</a></h3>
@@ -94,7 +94,7 @@
 
                             <div class="sidbar-blog-inner">
                                 <div class="sidbar-blog-image">
-                                    <a href="product-details3.php"><img src="assets/images/blog/blog-03.jpg" alt=""></a>
+                                    <a href="product-details3.php"><img src="assets/images/blog/blog-03.jpg" alt="Por que a manutenção do site é importante para o seu negócio?"></a>
                                 </div>
                                 <div class="sidbar-blog-content text-left">
                                     <h3><a href="blog-details3.php">Por que a manutenção do site é importante para o seu negócio?</a></h3>
@@ -104,7 +104,7 @@
                             <!-- sidbar-blog-inner start -->
                             <div class="sidbar-blog-inner">
                                 <div class="sidbar-blog-image">
-                                    <a href="blog-details2.php"><img src="assets/images/blog/blog-02.jpg" alt=""></a>
+                                    <a href="blog-details2.php"><img src="assets/images/blog/blog-02.jpg" alt="25 perguntas comuns de SEO e suas respostas"></a>
                                 </div>
                                 <div class="sidbar-blog-content text-left">
                                     <h3><a href="blog-details2.php">25 perguntas comuns de SEO e suas respostas</a></h3>
@@ -114,7 +114,7 @@
                             <!-- sidbar-blog-inner start -->
                             <div class="sidbar-blog-inner">
                                 <div class="sidbar-blog-image">
-                                    <a href="blog-details.php"><img src="assets/images/blog/blog-01.jpg" alt=""></a>
+                                    <a href="blog-details.php"><img src="assets/images/blog/blog-01.jpg" alt="Por que as empresas de comércio eletrônico falham?"></a>
                                 </div>
                                 <div class="sidbar-blog-content text-left">
                                     <h3><a href="blog-details.php">Por que as empresas de comércio eletrônico falham?</a></h3>
@@ -145,7 +145,7 @@
                     <!-- blog-details-wrapper start -->
                     <div class="blog-details-wrapper">
                         <div class="blog-details-image">
-                            <img src="assets/images/blog/blog-details3.jpg" alt="">
+                            <img src="assets/images/blog/blog-details3.jpg" alt="Por que sites precisam de manutenção?">
                         </div>
                         <div class="blog-inner">
                             <ul class="meta">
@@ -157,7 +157,7 @@
                         <div class="postinfo-wrapper">
                             <div class="post-info">
                                                                               
-                                <h3>Por que sites precisam de manutenção?</h3>
+                                <h2>Por que sites precisam de manutenção?</h2>
                                 <p>Esta é uma questão muito importante para refletir sobre. Seu site é o gateway / janela para o seu negócio online. A primeira coisa que um visitante encontra ao tentar entrar em contato on-line é o seu site. Ao chegar no site, dentro de segundos, um visitante terá a decisão muito importante que se vale a pena o seu tempo ou não e ficar nele ou não.</p>
 
                                 <p>Um site bem mantido é importante e pode revelar-se gratificante para o seu negócio. Você não acredita? Certo. Somente se conseguirmos os detalhes e a importância de fazê-lo e o que podemos fazer para manter adequadamente o site, será muito fácil entendermos a utilidade da manutenção do site.</p>

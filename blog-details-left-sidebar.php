@@ -20,7 +20,7 @@
                     <h2 class="breadcrumb-title">Blog Detalhes</h2>
                     <!-- breadcrumb-list start -->
                     <ul class="breadcrumb-list">
-                        <li class="breadcrumb-item"><a href="index.html">Blog Detalhes</a></li>
+                        <li class="breadcrumb-item"><a href="index.php">Blog Detalhes</a></li>
                         <li class="breadcrumb-item active">Blog</li>
                     </ul>
                     <!-- breadcrumb-list end -->
@@ -67,7 +67,7 @@
                             <!-- sidbar-blog-inner start -->
                             <div class="sidbar-blog-inner">
                                 <div class="sidbar-blog-image">
-                                    <a href="product-details6.php"><img src="assets/images/blog/blog-06.jpg" alt=""></a>
+                                    <a href="product-details6.php"><img src="assets/images/blog/blog-06.jpg" alt="Qual plataforma de mídia social está certa para comercializar seu negócio?"></a>
                                 </div>
                                 <div class="sidbar-blog-content text-left">
                                     <h3><a href="blog-details6.php">Qual plataforma de mídia social está certa para comercializar seu negócio?</a></h3>
@@ -76,7 +76,7 @@
 
                             <div class="sidbar-blog-inner">
                                 <div class="sidbar-blog-image">
-                                    <a href="product-details5.php"><img src="assets/images/blog/blog-05.jpg" alt=""></a>
+                                    <a href="product-details5.php"><img src="assets/images/blog/blog-05.jpg" alt="Web Design responsivo - a necessidade de hoje"></a>
                                 </div>
                                 <div class="sidbar-blog-content text-left">
                                     <h3><a href="blog-details5.php">Web Design responsivo - a necessidade de hoje</a></h3>
@@ -85,7 +85,7 @@
 
                             <div class="sidbar-blog-inner">
                                 <div class="sidbar-blog-image">
-                                    <a href="product-details4.php"><img src="assets/images/blog/blog-04.jpg" alt=""></a>
+                                    <a href="product-details4.php"><img src="assets/images/blog/blog-04.jpg" alt="Como usar vídeos para expandir sua empresa on-line"></a>
                                 </div>
                                 <div class="sidbar-blog-content text-left">
                                     <h3><a href="blog-details4.php">Como usar vídeos para expandir sua empresa on-line</a></h3>
@@ -95,7 +95,7 @@
 
                             <div class="sidbar-blog-inner">
                                 <div class="sidbar-blog-image">
-                                    <a href="product-details3.php"><img src="assets/images/blog/blog-03.jpg" alt=""></a>
+                                    <a href="product-details3.php"><img src="assets/images/blog/blog-03.jpg" alt="Por que a manutenção do site é importante para o seu negócio?"></a>
                                 </div>
                                 <div class="sidbar-blog-content text-left">
                                     <h3><a href="blog-details3.php">Por que a manutenção do site é importante para o seu negócio?</a></h3>
@@ -105,7 +105,7 @@
                             <!-- sidbar-blog-inner start -->
                             <div class="sidbar-blog-inner">
                                 <div class="sidbar-blog-image">
-                                    <a href="blog-details2.php"><img src="assets/images/blog/blog-02.jpg" alt=""></a>
+                                    <a href="blog-details2.php"><img src="assets/images/blog/blog-02.jpg" alt="25 perguntas comuns de SEO e suas respostas"></a>
                                 </div>
                                 <div class="sidbar-blog-content text-left">
                                     <h3><a href="blog-details2.php">25 perguntas comuns de SEO e suas respostas</a></h3>
@@ -115,7 +115,7 @@
                             <!-- sidbar-blog-inner start -->
                             <div class="sidbar-blog-inner">
                                 <div class="sidbar-blog-image">
-                                    <a href="blog-details.html"><img src="assets/images/blog/blog-01.jpg" alt=""></a>
+                                    <a href="blog-details.html"><img src="assets/images/blog/blog-01.jpg" alt="Por que as empresas de comércio eletrônico falham?"></a>
                                 </div>
                                 <div class="sidbar-blog-content text-left">
                                     <h3><a href="blog-details.html">Por que as empresas de comércio eletrônico falham?</a></h3>
@@ -146,7 +146,7 @@
                     <!-- blog-details-wrapper start -->
                     <div class="blog-details-wrapper">
                         <div class="blog-details-image">
-                            <img src="assets/images/blog/blog-details.jpg" alt="">
+                            <img src="assets/images/blog/blog-details.jpg" alt="Por que as empresas de comércio eletrônico falham?">
                         </div>
                         <div class="blog-inner">
                             <ul class="meta">
@@ -157,6 +157,7 @@
                         </div>
                         <div class="postinfo-wrapper">
                             <div class="post-info">
+                                <h2>Por que as empresas de comércio eletrônico falham?</h2>
                                 <p>Você teria ouvido o ditado: "Os primeiros passos são os mais difíceis". Mas isso não é verdade com as empresas de comércio eletrônico. Hoje, com muitos softwares de configuração de lojas de comércio eletrônico e empresas de design de sites de comércio eletrônico acessíveis, iniciar uma loja on-line é muito fácil - e você pode até começar a vender seus produtos em poucos dias.</p>
 
                                 <p>Mas a parte mais desafiadora é: converter sua startup de comércio eletrônico em um negócio bem-sucedido e lucrativo. Relatórios recentes da indústria afirmam que oito entre dez lojas de comércio eletrônico foram abandonadas em 24 meses de operação. Outros pesquisadores colocam o número ainda mais alto, afirmando que 97% de todas as empresas de comércio eletrônico não têm lucro. Isso é muito chocante.</p>

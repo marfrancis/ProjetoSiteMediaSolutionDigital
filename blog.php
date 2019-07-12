@@ -57,7 +57,7 @@ include_once 'head.php'?>
                     <!-- single-latest-blog Start -->
                     <div class="single-latest-blog mb--30">
                         <div class="latest-blog-image">
-                            <a href="blog-details-left-sidebar2.php"><img src="assets/images/blog/blog-02.jpg" alt=""></a>
+                            <a href="blog-details-left-sidebar2.php"><img src="assets/images/blog/blog-02.jpg" alt="25 perguntas comuns de SEO e suas respostas"></a>
                         </div>
                         <div class="latest-blog-cont">
                             <h3><a href="blog-details-left-sidebar2.php">25 perguntas comuns de SEO e suas respostas</a></h3>
@@ -69,7 +69,7 @@ include_once 'head.php'?>
                     <!-- single-latest-blog Start -->
                     <div class="single-latest-blog mb--30">
                         <div class="latest-blog-image">
-                            <a href="blog-details-left-sidebar3.php"><img src="assets/images/blog/blog-03.jpg" alt=""></a>
+                            <a href="blog-details-left-sidebar3.php"><img src="assets/images/blog/blog-03.jpg" alt="Por que a manutenção do site é importante para o seu negócio?"></a>
                         </div>
                         <div class="latest-blog-cont">
                             <h3><a href="blog-details-left-sidebar3.php">Por que a manutenção do site é importante para o seu negócio?</a></h3>
@@ -81,7 +81,7 @@ include_once 'head.php'?>
                     <!-- single-latest-blog Start -->
                     <div class="single-latest-blog mb--30 ">
                         <div class="latest-blog-image">
-                            <a href="blog-details-left-sidebar4.php"><img src="assets/images/blog/blog-04.jpg" alt=""></a>
+                            <a href="blog-details-left-sidebar4.php"><img src="assets/images/blog/blog-04.jpg" alt="Como usar vídeos para expandir sua empresa on-line"></a>
                         </div>
                         <div class="latest-blog-cont">
                             <h3><a href="blog-details-left-sidebar4.php">Como usar vídeos para expandir sua empresa on-line</a></h3>
@@ -93,7 +93,7 @@ include_once 'head.php'?>
                     <!-- single-latest-blog Start -->
                     <div class="single-latest-blog mb--30">
                         <div class="latest-blog-image">
-                            <a href="blog-details-left-sidebar5.php"><img src="assets/images/blog/blog-05.jpg" alt=""></a>
+                            <a href="blog-details-left-sidebar5.php"><img src="assets/images/blog/blog-05.jpg" alt="Web Design responsivo - a necessidade de hoje"></a>
                         </div>
                         <div class="latest-blog-cont">
                             <h3><a href="blog-details-left-sidebar5.php">Web Design responsivo - a necessidade de hoje </a></h3>
@@ -105,7 +105,7 @@ include_once 'head.php'?>
                     <!-- single-latest-blog Start -->
                     <div class="single-latest-blog mb--30 ">
                         <div class="latest-blog-image">
-                            <a href="blog-details-left-sidebar6.php"><img src="assets/images/blog/blog-06.jpg" alt=""></a>
+                            <a href="blog-details-left-sidebar6.php"><img src="assets/images/blog/blog-06.jpg" alt="Qual plataforma de mídia social está certa para comercializar seu negócio?"></a>
                         </div>
                         <div class="latest-blog-cont">
                             <h3><a href="blog-details-left-sidebar6.php">Qual plataforma de mídia social está certa para comercializar seu negócio?</a></h3>
