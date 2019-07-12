@@ -158,7 +158,7 @@
                         <div class="postinfo-wrapper">
                             <div class="post-info">
                                 <h2>Por que as empresas de comércio eletrônico falham?</h2>
-                                <p>Você teria ouvido o ditado: "Os primeiros passos são os mais difíceis". Mas isso não é verdade com as empresas de comércio eletrônico. Hoje, com muitos softwares de configuração de lojas de comércio eletrônico e empresas de design de sites de comércio eletrônico acessíveis, iniciar uma loja on-line é muito fácil - e você pode até começar a vender seus produtos em poucos dias.</p>
+                                <p>Você já deve ter ouvido o ditado: "Os primeiros passos são os mais difíceis", certo? Mas isso não é verdade com as empresas de e-commerce. Hoje, com muitos softwares de configuração de lojas e-commerce e empresas de design de sites e-commerce acessíveis, iniciar uma loja on-line é muito fácil - e você pode até começar a vender seus produtos em poucos dias.</p>
 
                                 <p>Mas a parte mais desafiadora é: converter sua startup de comércio eletrônico em um negócio bem-sucedido e lucrativo. Relatórios recentes da indústria afirmam que oito entre dez lojas de comércio eletrônico foram abandonadas em 24 meses de operação. Outros pesquisadores colocam o número ainda mais alto, afirmando que 97% de todas as empresas de comércio eletrônico não têm lucro. Isso é muito chocante.</p>
 
@@ -173,15 +173,15 @@
 
                                 <p>Se você estiver interessado em fotografia de produtos, comece investindo no equipamento de fotografia certo e aprenda algumas dicas e truques para clicar nas fotos da melhor maneira possível. Forneça várias visualizações do seu produto e inclua descrições detalhadas. Não use descrições genéricas, em vez disso, descreva seu produto a partir da perspectiva do cliente - o que ele gostaria de saber sobre o produto, etc. Se a fotografia não é o seu ritmo, você pode contratar fotógrafos profissionais para fazer o trabalho ou obter a ajuda de serviços profissionais de desenvolvimento de woocommerce , para ajudá-lo a configurar sua listagem de produtos e o resto de sua loja de comércio eletrônico.</p>
                                 <p>Não confie apenas no preço para atrair clientes. Em vez disso, alicie-os destacando os melhores recursos do seu produto. Exiba seus produtos da melhor maneira possível.</p>
-                                <h3>2. Informações de contato ausentes - números de telefone, ID de e-mail etc.</h3>
-                                <p>Embora isso possa parecer um problema menor, não exibir suas informações de contato completas de forma proeminente em seu site ou enterrá-las no canto do site, evita que os clientes confiem em você. Quando um novo cliente chega ao seu site, ele procura informações sobre sua marca - como de onde você é baseado, a história por trás da sua marca, etc. Os clientes escolhem marcas que são fáceis de contatar, pois podem entrar em contato com você rapidamente algo dá errado.</p>
+                                <h3>2. Informações de contato ausentes - números de telefone, endereço de e-mail etc.</h3>
+                                <p>Embora isso possa parecer um problema menor, não exibir suas informações de contato completas de forma proeminente em seu site ou enterrá-las no canto do site, evita que os clientes confiem em você. Quando um novo cliente chega ao seu site, ele procura informações sobre sua marca - como de onde você é, a história por trás da sua marca, etc. Os clientes escolhem marcas que são fáceis de contatar, pois podem entrar em contato com você rapidamente caso algo dê errado.</p>
 
                                 <h3>Como resolver isso?</h3>
 
-                                <p>Certifique-se de exibir suas informações de contato completas - ID de e-mail, números de telefone, endereço, páginas de mídia social para criar a confiança de seus clientes em potencial.</p>
+                                <p>Certifique-se de exibir suas informações de contato completas - Endereço de e-mail, números de telefone, endereço, páginas de mídia social para criar a confiança de seus clientes em potencial.</p>
 
                                 <h3>3. Má Gestão Financeira</h3>
-                                <p>A falta de rastreamento e monitoramento das finanças acabará com qualquer negócio rapidamente. Vamos ilustrar esse ponto com um exemplo. A Ecomom foi uma das primeiras empresas de comércio eletrônico iniciadas em 2007. A empresa tinha uma linha de produtos sólida - produtos naturais e ecologicamente corretos de mães novas e esperadas, bem como alimentos para bebês, brinquedos e roupas naturais.</p>
+                                <p>A falta de rastreamento e monitoramento das finanças acabará com qualquer negócio rapidamente. Vamos ilustrar esse ponto com um exemplo. A Ecomom foi uma das primeiras empresas de comércio eletrônico iniciadas em 2007. A empresa tinha uma linha de produtos sólida - produtos naturais e ecologicamente corretos para mães e gestantes, bem como alimentos para bebês, brinquedos e roupas naturais.</p>
 
                                 <p>A ideia era boa, e a empresa tinha uma base de consumidores crescente, graças ao aumento da demanda por produtos para bebês naturais e sem produtos químicos. Mas, então, a empresa faliu em 2013, apenas seis anos após o lançamento.</p>
 
