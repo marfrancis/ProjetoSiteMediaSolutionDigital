@@ -50,11 +50,11 @@ include_once 'head.php'?>
                     <!-- single-case-item Start -->
                     <div class="single-case-item">
                         <div class="single-case-image">
-                            <a class="case-image" href="project-details.html"><img src="assets/images/case/01.jpg" alt=""></a>
+                            <a class="case-image" href="project-patisserie.php"><img src="assets/images/case/01.jpg" alt=""></a>
                         </div>
                         <div class="case-content">
-                            <h3><a href="project-details.html">Marcelo Ribeiro Patisserie</a></h3>
-                            <p>Randomised words which don't look n slightly believable. If you are going to use a passayou need to be sure kew ki..</p>
+                            <h3><a href="project-patisserie.php">Marcelo Ribeiro Patisserie</a></h3>
+                            
                         </div>
                     </div><!--// single-case-item End -->
                 </div>
@@ -65,8 +65,8 @@ include_once 'head.php'?>
                             <a class="case-image" href="project-details.html"><img src="assets/images/case/02.jpg" alt=""></a>
                         </div>
                         <div class="case-content">
-                            <h3><a href="project-details.html">SEO marketing do a unlimited</a></h3>
-                            <p>Randomised words which don't look n slightly believable. If you are going to use a passayou need to be sure kew ki..</p>
+                            <h3><a href="project-details.html">Jacque Massini Boutique</a></h3>
+                            
                         </div>
                     </div><!--// single-case-item End -->
                 </div>
@@ -78,7 +78,7 @@ include_once 'head.php'?>
                         </div>
                         <div class="case-content">
                             <h3><a href="project-details.html">Twice profit than before</a></h3>
-                            <p>Randomised words which don't look n slightly believable. If you are going to use a passayou need to be sure kew ki..</p>
+                            
                         </div>
                     </div><!--// single-case-item End -->
                 </div>
@@ -90,7 +90,7 @@ include_once 'head.php'?>
                         </div>
                         <div class="case-content">
                             <h3><a href="project-details.html">Built web faster & better</a></h3>
-                            <p>Randomised words which don't look n slightly believable. If you are going to use a passayou need to be sure kew ki..</p>
+                           
                         </div>
                     </div><!--// single-case-item End -->
                 </div>
@@ -102,7 +102,7 @@ include_once 'head.php'?>
                         </div>
                         <div class="case-content">
                             <h3><a href="project-details.html">SEO marketing do a unlimited</a></h3>
-                            <p>Randomised words which don't look n slightly believable. If you are going to use a passayou need to be sure kew ki..</p>
+                            
                         </div>
                     </div><!--// single-case-item End -->
                 </div>
@@ -114,7 +114,7 @@ include_once 'head.php'?>
                         </div>
                         <div class="case-content">
                             <h3><a href="project-details.html">Twice profit than before</a></h3>
-                            <p>Randomised words which don't look n slightly believable. If you are going to use a passayou need to be sure kew ki..</p>
+                            
                         </div>
                     </div><!--// single-case-item End -->
                 </div>

@@ -140,12 +140,11 @@ include_once 'head.php'?>
                         <!-- single-case-item Start -->
                         <div class="single-case-item">
                             <div class="single-case-image">
-                                <a class="case-image" href="http://www.marceloribeiropatisserie.com.br/" target="_blank"><img src="assets/images/case/01.jpg" alt=""></a>
+                                <a class="case-image" href="project-patisserie.php" target="_blank"><img src="assets/images/case/01.jpg" alt=""></a>
                             </div>
                             <div class="case-content">
                                 <h3><a href="#">Marcelo Ribeiro Patisserie</a></h3>
-                                <p>Randomised words which don't look n slightly believable. If you are going to use a
-                                    passayou need to be sure kew ki..</p>
+                                
                             </div>
                         </div>
                         <!--// single-case-item End -->
@@ -157,9 +156,8 @@ include_once 'head.php'?>
                                 <a class="case-image" href="#"><img src="assets/images/case/02.jpg" alt=""></a>
                             </div>
                             <div class="case-content">
-                                <h3><a href="#">CLIENTE 2</a></h3>
-                                <p>Randomised words which don't look n slightly believable. If you are going to use a
-                                    passayou need to be sure kew ki..</p>
+                                <h3><a href="#">Jacque Massini Boutique</a></h3>
+                              
                             </div>
                         </div>
                         <!--// single-case-item End -->
@@ -172,8 +170,7 @@ include_once 'head.php'?>
                             </div>
                             <div class="case-content">
                                 <h3><a href="#">CLIENTE 3</a></h3>
-                                <p>Randomised words which don't look n slightly believable. If you are going to use a
-                                    passayou need to be sure kew ki..</p>
+                                
                             </div>
                         </div>
                         <!--// single-case-item End -->

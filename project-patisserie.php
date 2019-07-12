@@ -2,7 +2,7 @@
 $root = 'http://localhost/projetositemediasolutiondigital/';
 $foto = 'slider-inner-2.png';
 
-$title = $facebook_title = "Serviços detalhe";
+$title = $facebook_title = "Portfolio Detalhe";
 $keywords = 'Desenvolvimento, personalizado., Sistemas, , Web, uma, empresa, atendimento, tenha, benefícios, website, únicos., Web4business., Desenvolva, seu, Criação, com, brusque, web designer, desenvolvimento web, php, sistemas, manutenção de sites, negócios internet, empresa de sites, solução web, soluções, webfor, site, webbusiness, web business, web4 business, criação de sites, webquatro, webbrusque, E-commerce, E-comerce, Ecommerce, Desenvolvedor de Sites, Brusque, Sites, Web for, Media Solution, Media';
 $description = $facebook_description = substr(strip_tags('<p>Desenvolvimento Web, uma empresa de Criação de Sites e Sistemas Web com atendimento personalizado. Criação de Sites é com a Media Solution. Desenvolva seu website com a Media Solution e tenha benefícios únicos.</p>'), 0, 200);
 $facebook_image = htmlentities($root . 'img/' . $foto);
@@ -28,11 +28,11 @@ include_once 'head.php'?>
             <div class="container">
                 <div class="row">
                     <div class="col">
-                        <h2 class="breadcrumb-title">Project Details</h2>
+                        <h2 class="breadcrumb-title">Portfolio Detalhes</h2>
                         <!-- breadcrumb-list start -->
                         <ul class="breadcrumb-list">
                             <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                            <li class="breadcrumb-item active">Project Details</li>
+                            <li class="breadcrumb-item active">Portfolio Detalhes</li>
                         </ul>
                         <!-- breadcrumb-list end -->
                     </div>
@@ -55,7 +55,7 @@ include_once 'head.php'?>
                         <div class="row">
                             <div class="col-12">
                                 <div class="project-title">
-                                    <h2>SEO marketing do a unlimited</h2>
+                                    <h2>Marcelo Ribeiro Patisserie</h2>
                                 </div>
                             </div>
                             <div class="col-lg-7">
@@ -73,9 +73,9 @@ include_once 'head.php'?>
                             <div class="col-lg-4 offset-lg-1">
                                 <div class="project-info">
                                     <ul>
-                                        <li>Client: <span>John Marke</span></li>
-                                        <li>Project type: <span>SEO And Marketing</span></li>
-                                        <li>Website: <a href="#"><span>http://www.info.com</span></a></li>
+                                        <li>Cliente: <span>Marcelo Ribeiro Patisserie</span></li>
+                                        <li>Projeto: <span>Website - Identidade Visual - Redes sociais</span></li>
+                                        <li>Website: <a href="http://www.marceloribeiropatisserie.com.br"><span>www.marceloribeiropatisserie.com.br</span></a></li>
                                     </ul>
                                 </div>
                             </div>
