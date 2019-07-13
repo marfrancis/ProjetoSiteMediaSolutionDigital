@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="pt">
+<html class="no-js" lang="pt-BR">
 
 <head>
     <meta charset="UTF-8">
@@ -27,7 +27,16 @@
 		<title>Media Solution Digital</title>
 
 		<?php if (strpos($_SERVER['HTTP_USER_AGENT'], "Google Page Speed Insights") === false): ?>
-			<!-- O que tiver aqui dentro o page speed do Google não consegue ver -->
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+				<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143763409-1"></script>
+				<script>
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+
+				gtag('config', 'UA-143763409-1');
+				</script>
+
 		<?php endif ?>
     <!-- Favicon -->
 	
