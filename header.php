@@ -2,17 +2,24 @@
     <div class="header-area inner-header">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4">
+                <div class="col-lg-4 d-none">
                     <!-- logo Start -->
                     <div class="logo">
-                        <a href="index.php"><img src="assets/images/logo/logo3.png" alt=""></a>
+                        <a href="index.php"><img src="assets/images/logo/logo3.png" alt="Media Solution Digital"></a>
+                    </div>
+                    <!--// logo End -->
+                </div>
+                <div class="d-block col-lg-4 logo mobile">
+                    <!-- logo Start -->
+                    <div class="logo-mobile-mg">
+                        <a href="index.php"><img class="logo-mobile" src="assets/images/logo/logo3.png" alt="Media Solution Digital"></a>
                     </div>
                     <!--// logo End -->
                 </div>
                 <div class="col-lg-8">
                     <!-- main-menu-area Start -->
                     <div class="main-menu">
-                        <nav class="main-navigation">
+                        <nav class="main-navigation ">
                             <ul>
                                 <li><a href="index.php">HOME</a></li>
                                 <li><a href="service.php">SERVIÇOS</a></li>
@@ -28,7 +35,7 @@
                 </div>
                 <div class="col">
                     <!-- mobile-menu start -->
-                    <div class="mobile-menu d-block d-lg-none"></div>
+                    <div class="mobile-menu mobile-margen d-block d-lg-none "></div>
                     <!-- mobile-menu end -->
                 </div>
             </div>

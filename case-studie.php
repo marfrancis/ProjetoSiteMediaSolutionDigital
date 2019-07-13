@@ -77,7 +77,7 @@ include_once 'head.php'?>
                             <a class="case-image" href="project-details.html"><img src="assets/images/case/03.jpg" alt=""></a>
                         </div>
                         <div class="case-content">
-                            <h3><a href="project-details.html">Twice profit than before</a></h3>
+                            <h3><a href="project-details.html">Reeduca Recicla</a></h3>
                             
                         </div>
                     </div><!--// single-case-item End -->
@@ -89,7 +89,7 @@ include_once 'head.php'?>
                             <a class="case-image" href="project-details.html"><img src="assets/images/case/04.jpg" alt=""></a>
                         </div>
                         <div class="case-content">
-                            <h3><a href="project-details.html">Built web faster & better</a></h3>
+                            <h3><a href="project-details.html">Strings & Music</a></h3>
                            
                         </div>
                     </div><!--// single-case-item End -->
