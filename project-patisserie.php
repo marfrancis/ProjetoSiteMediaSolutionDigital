@@ -23,23 +23,7 @@ include_once 'head.php'?>
         <!-- Header-area end -->
         <!-- Header-area end -->
 
-        <!-- breadcrumb-area start -->
-        <div class="breadcrumb-area section-ptb">
-            <div class="container">
-                <div class="row">
-                    <div class="col">
-                        <h2 class="breadcrumb-title">Portfolio Detalhes</h2>
-                        <!-- breadcrumb-list start -->
-                        <ul class="breadcrumb-list">
-                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                            <li class="breadcrumb-item active">Portfolio Detalhes</li>
-                        </ul>
-                        <!-- breadcrumb-list end -->
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- breadcrumb-area end -->
+       
 
 
         <!-- Our case Area Start -->
