@@ -1223,7 +1223,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 @media only screen and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
   .mobile-menu .mean-bar .mean-nav > ul {
-    max-height: 280px;
+    max-height: 317px;
     overflow-y: auto;
   }
 }

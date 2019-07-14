@@ -169,7 +169,7 @@ include_once 'head.php'?>
                                 <a class="case-image" href="#"><img src="assets/images/case/03.jpg" alt=""></a>
                             </div>
                             <div class="case-content">
-                                <h3><a href="#">CLIENTE 3</a></h3>
+                                <h3><a href="#">Reeduca Recicla</a></h3>
                                 
                             </div>
                         </div>

@@ -35,8 +35,8 @@
                 </div>
                 <div class="col">
                     <!-- mobile-menu start -->
-                    <div class="mobile-menu mobile-margen d-block d-lg-none "></div>
-                    <!-- mobile-menu end -->
+                    <div class="mobile-menu mobile-margen d-block d-sm-block d-md-block d-lg-block d-xl-none "></div>
+                    
                 </div>
             </div>
         </div>
