@@ -158,10 +158,10 @@
                             <div class="post-info">
                                                                               
                                 <h2>Por que sites precisam de manutenção?</h2>
-                                <p>Esta é uma questão muito importante para refletir sobre. Seu site é o gateway / janela para o seu negócio online. A primeira coisa que um visitante encontra ao tentar entrar em contato on-line é o seu site. Ao chegar no site, dentro de segundos, um visitante terá a decisão muito importante que se vale a pena o seu tempo ou não e ficar nele ou não.</p>
+                                <p>Esta é uma questão muito importante para refletir sobre. Seu site é o gateway / janela para o seu negócio online. A primeira coisa que um visitante encontra ao tentar entrar em contato on-line é o seu site. Ao chegar no site, dentro de segundos, um visitante terá uma decisão muito importante, que é: se vale a pena ficar nele ou não.</p>
 
                                 <p>Um site bem mantido é importante e pode revelar-se gratificante para o seu negócio. Você não acredita? Certo. Somente se conseguirmos os detalhes e a importância de fazê-lo e o que podemos fazer para manter adequadamente o site, será muito fácil entendermos a utilidade da manutenção do site.</p>
-                                <p>A segurança do seu site também está em risco se você não mantê-lo atualizado o tempo todo. Primeiras coisas primeiro, o que faz um bom site ou ainda melhor, devemos discutir o contrário e dar uma olhada em como um site mal atualizado é um mau? Isso nos dará uma boa idéia de quais erros não queremos cometer e de que devemos ser cautelosos.</p>
+                                <p>A segurança do seu site também está em risco se você não mantê-lo atualizado o tempo todo. Primeiras coisas primeiro, devemos discutir como um site mal atualizado é ruim. Isso nos dará uma boa idéia de quais erros não queremos cometer e com que devemos ser cautelosos.</p>
                                 <p>Vamos dar uma olhada no impacto negativo causado pela má manutenção. Um site mal mantido pode fazer muito, quer saber o que?</p>
 
                                 <h3>1. Bem, pode danificar sua imagem corporativa muito mal.</h3>
@@ -171,34 +171,34 @@
                                 <h3>2. Você arriscará perder seus clientes existentes e seu site nunca atrairá novos visitantes.</h3>
                                 <p>As expectativas do cliente são altas à medida que procuram informações específicas em seus sites. Se não for atualizado, como eles obterão as informações necessárias que estão procurando? Ao atualizar rotineiramente o conteúdo e atualizar todas as informações necessárias, você poderá atender melhor ao seu cliente.</p>
 
-                                <h3>3. Ele vai levar a vulnerabilidade de software e tendo o controle de acesso do seu site antigo e com bugs é bastante fácil.</h3>
+                                <h3>3. Seu site ficará vulnerável, com bugs e ter o controle de acesso do seu site é bem fácil.</h3>
                                 <p>Um site sem patches de segurança é facilmente detectável pelas ferramentas do hacker que escaneiam a internet. Para proteger o controle de acesso, vá para senhas desconhecidas e tenha um segundo fator de autenticação também.</p>
                                 
                                 <h3>4. Spam de SEO pode acontecer.</h3>
                                 <p>O conteúdo do seu site pode ser alterado com muitas páginas de spam e links adicionados pelos invasores para explorar seu site. O spam de SEO afeta principalmente os pequenos sites para utilizá-los em esquemas de criação de links de spam.</p>
-                                <p>Como uma empresa de serviços de SEO profissional , um plano de manutenção de longo prazo do site está incluído nos serviços prestados por nós. Mas antes de nos contratar e atribuir a tarefa para fazê-lo primeiro, você gostaria de dar uma olhada nos benefícios da manutenção do site e ter uma ideia clara sobre por que é importante manter seu site. Então, você terá seus pontos de verificação para garantir que as coisas sejam feitas como deveriam.</p>
+                                <p>Como uma empresa de serviços de SEO profissional, um plano de manutenção de longo prazo do site está incluído nos serviços prestados por nós. Mas antes de nos contratar e atribuir a tarefa para fazê-lo primeiro, você gostaria de dar uma olhada nos benefícios da manutenção do site e ter uma ideia clara sobre por que é importante manter seu site. Então, você terá seus pontos de verificação para garantir que as coisas sejam feitas como deveriam.</p>
                                 
                                 <h3>Importância da manutenção do site</h3>
                                 <p>Existem várias razões para atualizar o seu site, mas você deve pensar mais seriamente sobre isso por causa de algumas questões muito importantes e óbvias.</p>
 
-                                <h3>Primeira Importância é Segurança, Hackers Gostam de Pequenos Sites!</h3>
+                                <h3>Uma das coisas mais importantes é a segurança, hackers gostam de pequenos Sites!</h3>
                                 <p>Um site antigo que não é atualizado com frequência é um alvo muito fácil para hackers. Tudo o que eles precisam fazer é procurar por "ver a origem da página" e obter as informações sobre a versão do wordpress que você está executando. Você pode estar se perguntando por que os hackers atacarão meu site?</p>
-                                <p>Um site que não é atualizado é propenso a ser hackeado por várias razões, como campanhas Blackhat SEO, mineração Bitcoin, roubo de banda, downloads drive-by, páginas de phishing, skimmers de cartão de crédito (sites de e-commerce um bom alvo para isso).</p>
+                                <p>Um site que não é atualizado é propenso a ser hackeado por várias razões, como campanhas Blackhat SEO, mineração Bitcoin, roubo de banda, downloads drive-by, páginas de phishing, skimmers de cartão de crédito (sites de e-commerce são um bom alvo para isso).</p>
                                 <p>Se você está pensando que tem um site pequeno, os hackers podem não querer segmentá-lo por causa disso. Você está adivinhando errado. Ao contrário do que você pode preferir acreditar, na verdade os hackers preferem hackear sites pequenos por sua desenvoltura.</p>
                                
-                                <h3>Como um negócio on-line, você deve avaliar adequadamente a atenção e os requisitos do cliente e não há requisitos para recursos inutilizáveis, desempenho insatisfatório e baixa velocidade.</h3>
-                                <p>Sempre muita ênfase é colocada sobre isso. Você fez o seu site e não vê a importância de atualizá-lo, então ele pode perder a força adquirida. Como os visitantes frequentes em seu site preferem ver as atualizações e todas as informações necessárias fornecidas.</p>
-                                <p>Eles certamente não gostarão do site mais lento que carece completamente das novas funcionalidades.</p>
+                                <h3>Como um negócio on-line, você deve avaliar adequadamente a atenção e os requisitos do cliente e se não há requisitos para recursos inutilizáveis, desempenho insatisfatório e baixa velocidade.</h3>
+                                <p>Sempre muita ênfase é colocada sobre isso. Você fez o seu site e não vê a importância de atualizá-lo, então ele pode perder a força adquirida. Como os visitantes frequentes em seu site preferem ver as atualizações e todas as informações necessárias fornecidas, eles certamente não gostarão do site mais lento que carece completamente das novas funcionalidades.</p>
                                 
-                                <h3>Arriscando a integridade do seu site não é uma coisa sábia para fazer e quando você vai decidir atualizá-lo mais tarde, vai causar mais desperdício de tempo e dinheiro.</h3>
-                                <p>Quanto maior a espera para atualizar o site o tedioso será o processo de atualizá-lo no futuro. Quando você finalmente tomar a decisão de atualizá-lo, você encontrará vários problemas devido a módulos desatualizados.</p>
-                                <p>Isso causará muito desperdício de tempo e dinheiro. Como as atualizações levarão muito mais tempo e mais esforço de Q / A será necessário. O desenvolvedor precisará dar mais tempo ao fazer as atualizações.</p>
-                                <p>Nós, como uma empresa de desenvolvimento de wordpress nos EUA, fornecemos serviços projetados especificamente para a imprensa de palavras usando pequenas a grandes empresas. Como um provedor de serviços em tempo real, sua empresa precisará de um site adequadamente mantido. Senão, como o seu cliente obterá as respostas que está procurando em seu site, mesmo que ele não seja atualizado adequadamente?</p>
+                                
+                                <h3>Arriscar a integridade do seu site não é uma coisa sábia para fazer e quanto mais tarde você decidir atualizá-lo, vai causar mais desperdício de tempo e dinheiro.</h3>
+                                <p>Quanto maior a espera para atualizar o site, mais tedioso será o processo de atualizá-lo no futuro. Quando você finalmente tomar a decisão de atualizá-lo, você encontrará vários problemas devido a módulos desatualizados.</p>
+                                <p>Isso causará muito desperdício de tempo e dinheiro. Como as atualizações levarão muito mais tempo e mais esforço de Q / A será necessário. O desenvolvedor precisará dar mais tempo para fazer as atualizações.</p>
+                                
                                 
                                 <h3>Como manter um site?</h3>
-                                <p>Alguns para fazer e deve ter para manter e atualizar seu site</p>
+                                <p>Algumas coisas que você deve fazer para manter e atualizar seu site</p>
                                 <ul class="blog-list">
-                                <li class="blog-list">Por favor, não coloque as atualizações. É necessário e importante.</li>
+                                
                                 <li>Novas imagens e novos conteúdos, mas faça o mais relevante possível. Palavras importam. Eles causam impacto. Então, o melhor caminho será usá-los com sabedoria. Qualquer apresentação confusa, repetitiva ou chata não funcionará. Tente o seu caminho através das palavras. Use imaginação, criatividade e praticidade para obter o efeito desejado.</li>
                                 <li>Seu conteúdo deve ser otimizado para mecanismos de pesquisa ou como eles aparecerão no ranking do Google. Assim, o copywriting deve incluir termos de pesquisa compatíveis com o google e tem que ser detectável, afinal, é por isso que você o colocou na web. Certo?</li>
                                 <li>Use bookmarking social para espalhar a palavra nas mídias sociais e faça uso dessas plataformas para alcançar um público mais amplo. Faça a sua presença sentida e conhecida.</li>

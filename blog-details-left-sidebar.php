@@ -208,7 +208,7 @@
                                 <p>Depois de refinar seu website, o website para dispositivos móveis e o aplicativo de compras para celular, reserve um tempo para testar todos os cantos e recantos. Carregue-o a partir de diferentes dispositivos móveis, navegadores, verifique como é apresentado em tablets, portáteis, etc., experimente diferentes velocidades da Web e muito mais. Garanta que sua experiência on-line seja perfeita em todos os dispositivos para fornecer aos clientes existentes e potenciais a melhor experiência.</p>
 
                                 <h3>6. Taxas ocultas</h3>
-                                <p>Esta é uma grande desvantagem. Uma das principais razões para o abandono de carros é a cobrança de taxas ocultas. 61% dos clientes abandonam um carrinho quando são apresentados a um custo extra no final, como taxas de envio. Para evitar isso, compartilhe seus custos de envio com o cliente antecipadamente. Você também pode transformá-lo em vantagem, permitindo que os clientes saibam que podem evitar custos de envio quando compram além de um determinado valor.</p>
+                                <p>Esta é uma grande desvantagem. Uma das principais razões para o abandono de carrinhos de compra é a cobrança de taxas ocultas. 61% dos clientes abandonam um carrinho quando são apresentados a um custo extra no final, como taxas de envio. Para evitar isso, compartilhe seus custos de envio com o cliente antecipadamente. Você também pode transformá-lo em vantagem, permitindo que os clientes saibam que podem evitar custos de envio quando compram além de um determinado valor.</p>
 
                                 <p>Você também pode fornecer aos clientes uma calculadora de custos de envio para saber quanto eles terão que pagar antecipadamente.</p>
 
@@ -219,7 +219,7 @@
 
                                 <p>Comece criando um plano de marketing on-line robusto. Identifique seus objetivos e trabalhe em como alcançá-los. Se possível, contrate uma equipe de marketing digital dedicada para ajudá-lo em todos os canais - mídias sociais, marketing por e-mail, anúncios pagos, SEO orgânico e muito mais.</p>
 
-                                <h3>Como Começar Talvez Fácil, Mas Ter Sucesso Requer Esforço e Planejamento</h3>
+                                <h3>Começar talvez seja fácil, mas ter sucesso requer esforço e planejamento</h3>
                                 <p>Não há dúvidas de que o comércio eletrônico é uma ótima maneira de lançar seus negócios, com um mínimo de despesas gerais. No entanto, isso requer trabalho, esforço e planejamento. Evite os erros fatais listados acima e tenha sucesso em seu empreendimento de comércio eletrônico. Concentre-se em sustentabilidade e crescimento, e não em metas de curto prazo. Faça sua pesquisa e construa um excelente negócio on-line que continue a atrair clientes e gerar vendas, a longo prazo</p>
                                 
                             </div>
