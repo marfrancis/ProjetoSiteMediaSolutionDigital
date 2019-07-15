@@ -95,7 +95,7 @@ include_once 'head.php' ?>
                                     <div class="feature-text">
                                         <h3>Domain registration and Hosting</h3>
                                         <p>Media Solution Digital makes your initiative and your dream come true with
-                                        registration and hosting of new domains, so that your brand is unique.
+                                        registration and hosting of new domains.
                                         </p>
                                     </div>
                                 </div>
@@ -113,7 +113,7 @@ include_once 'head.php' ?>
                                         <h3>Visual Identity</h3>
                                         <p>With creative designers, thinking of making their unique brand, we offer the
                                         creation
-                                        of the visual identity of your company or initiative. </p>
+                                        of the visual identity of your company. </p>
                                     </div>
                                 </div>
                             </a>
@@ -146,7 +146,7 @@ include_once 'head.php' ?>
                                     <div class="feature-text">
                                         <h3>Art creation for projects and presentations</h3>
                                         <p>Handouts, books and presentations. Media Solution makes all the art of your
-                                        projects, making it a success.</p>
+                                        projects.</p>
                                     </div>
                                 </div>
                             </a>
@@ -161,7 +161,7 @@ include_once 'head.php' ?>
                                     </div>
                                     <div class="feature-text">
                                         <h3>Digital Campaign</h3>
-                                        <p>We make the whole campaign of your social media. Arts, post,
+                                        <p>Arts, post,
                                         disclosure.
                                         Everything to grow your brand and make your company a symbol in digital
                                         business.</p>

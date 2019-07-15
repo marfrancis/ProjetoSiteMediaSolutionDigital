@@ -80,8 +80,7 @@ include_once 'head.php'?>
 
                             <div class="serviace-info">
                                 <h3>Web Solutions</h3>
-                                <p>Precisa criar um projeto como um site ou um aplicativo? A Media Solution te oferece
-                                    serviços completos de criação à hospedagem.</p>
+                                <p>Need to create a project like a site or an application? Media Solution offers you complete services, from creation to hosting.</p>
                             </div>
                             <!--// serviace-info -->
                         </div>
@@ -97,8 +96,8 @@ include_once 'head.php'?>
 
                             <div class="serviace-info">
                                 <h3>Graphic Design</h3>
-                                <p>O design é uma área importante em qualquer negócio, pensando nisso, a Media Solution
-                                    oferece à seus clientes artes e peças conceituais de qualidade.</p>
+                                <p>Design is an important area in any business, thinking about it, Media Solution
+                                    offers its clients quality arts and design pieces</p>
                             </div>
                             <!--// serviace-info -->
                         </div>
@@ -114,8 +113,8 @@ include_once 'head.php'?>
 
                             <div class="serviace-info">
                                 <h3>Digital Marketing</h3>
-                                <p>As mídias sociais são muito importantes na hora de bombar o seu negócio, por isso,
-                                    trazemos estratégias eficientes para qualquer iniciativa.</p>
+                                <p>Social media is very important when it comes to pumping your business,
+                                    we bring effective strategies to any initiative.</p>
                             </div>
                             <!--// serviace-info -->
                         </div>
@@ -134,7 +133,7 @@ include_once 'head.php'?>
                         <!-- section-title Start -->
                         <div class="section-title">
                             <h4>Portfolio</h4>
-                            <h3>Nosso <span>Portfólio</span></h3>
+                            <h3>Our <span>Portflio</span></h3>
                         </div>
                         <!--// section-title End -->
                     </div>
@@ -144,12 +143,11 @@ include_once 'head.php'?>
                         <!-- single-case-item Start -->
                         <div class="single-case-item">
                             <div class="single-case-image">
-                                <a class="case-image" href="http://www.marceloribeiropatisserie.com.br/"  target="_blank"><img src="assets/images/case/01.jpg" alt=""></a>
+                                <a class="case-image" href="project-patisserie.php" target="_blank"><img src="../assets/images/case/01.jpg" alt=""></a>
                             </div>
                             <div class="case-content">
                                 <h3><a href="#">Marcelo Ribeiro Patisserie</a></h3>
-                                <p>Randomised words which don't look n slightly believable. If you are going to use a
-                                    passayou need to be sure kew ki..</p>
+                                
                             </div>
                         </div>
                         <!--// single-case-item End -->
@@ -158,12 +156,11 @@ include_once 'head.php'?>
                         <!-- single-case-item Start -->
                         <div class="single-case-item">
                             <div class="single-case-image">
-                                <a class="case-image" href="#"><img src="assets/images/case/02.jpg" alt=""></a>
+                                <a class="case-image" href="#"><img src="../assets/images/case/02.jpg" alt=""></a>
                             </div>
                             <div class="case-content">
-                                <h3><a href="#">CLIENTE 2</a></h3>
-                                <p>Randomised words which don't look n slightly believable. If you are going to use a
-                                    passayou need to be sure kew ki..</p>
+                                <h3><a href="#">Jacque Massini Boutique</a></h3>
+                              
                             </div>
                         </div>
                         <!--// single-case-item End -->
@@ -172,12 +169,11 @@ include_once 'head.php'?>
                         <!-- single-case-item Start -->
                         <div class="single-case-item">
                             <div class="single-case-image">
-                                <a class="case-image" href="#"><img src="assets/images/case/03.jpg" alt=""></a>
+                                <a class="case-image" href="#"><img src="../assets/images/case/03.jpg" alt=""></a>
                             </div>
                             <div class="case-content">
-                                <h3><a href="#">CLIENTE 3</a></h3>
-                                <p>Randomised words which don't look n slightly believable. If you are going to use a
-                                    passayou need to be sure kew ki..</p>
+                                <h3><a href="#">Reeduca Recicla</a></h3>
+                                
                             </div>
                         </div>
                         <!--// single-case-item End -->
@@ -203,11 +199,10 @@ include_once 'head.php'?>
                             <!-- About us content Start -->
                             <div class="about-us-content">
                                 <h2><b>Mission</b></h2>
-                                <p> Desenvolver soluções web e mobile focadas em resultados para os clientes, propondo
-                                    soluções criativas e inovadoras que agreguem valor e superem as expectativas</p>
+                                <p> 
+                                    Develop results-based web and mobile solutions for clients by proposing creative and innovative solutions that add value and exceed expectations</p>
                                 <h2><b>Vision</b></h2>
-                                <p>Ser reconhecida pelo mercado, clientes e colaboradores pela incessante busca da
-                                    excelência em seus serviços e dedicação ao cliente.</p>
+                                <p>Being recognized by the market, customers and employees for the incessant search for excellence in its services and dedication to the client.</p>
 
                             </div>
                             <!--// About us content End -->
@@ -225,68 +220,11 @@ include_once 'head.php'?>
         </div>
         <!-- About Us Area End -->
 
-        <!-- Testimonial Area Start -->
-        <div class="testimonial-area section-pb">
-            <div class="container">
-                <div class="row ">
-                    <div class="col-lg-12 mr-auto ml-auto testimonial-active">
-                        <!-- testimonial-wrap Start -->
-                        <div class="testimonial-wrap text-center">
-                            <div class="testimonial-image ">
-                                <img src="assets/images/review/comment-3.jpg" alt="">
-                            </div>
-                            <div class="testimonial-content">
-                                <ul>
-                                    <li><a href="#"><img src="assets/images/icon/start.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/images/icon/start.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/images/icon/start.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/images/icon/start.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/images/icon/start-o.png" alt=""></a></li>
-                                </ul>
-                                <p>It is a long established fact that a reader will be distracted by the readable
-                                    content of a page when looking at its layout.
-                                    The point of using Lorem Ipsum is that it has a more-or-less normal distribution of
-                                    letters,page when looking at its layout. The point</p>
+        <!-- Perfect Area start -->
 
-                            </div>
-                            <div class="author-info">
-                                <h4>Anna Rose</h4>
-                                <p>Fassion Designer</p>
-                            </div>
-                        </div>
-                        <!--// testimonial-wrap End -->
+        <?php include_once "perfect.php" ?>
 
-                        <!-- testimonial-wrap Start -->
-                        <div class="testimonial-wrap text-center">
-                            <div class="testimonial-image ">
-                                <img src="assets/images/review/comment-2.jpg" alt="">
-                            </div>
-                            <div class="testimonial-content">
-                                <ul>
-                                    <li><a href="#"><img src="assets/images/icon/start.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/images/icon/start.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/images/icon/start.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/images/icon/start.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/images/icon/start-o.png" alt=""></a></li>
-                                </ul>
-                                <p>It is a long established fact that a reader will be distracted by the readable
-                                    content of a page when looking at its layout.
-                                    The point of using Lorem Ipsum is that it has a more-or-less normal distribution of
-                                    letters,page when looking at its layout. The point</p>
-
-                            </div>
-                            <div class="author-info">
-                                <h4>Rose Jorina</h4>
-                                <p>Fassion Designer</p>
-                            </div>
-                        </div>
-                        <!--// testimonial-wrap End -->
-
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Testimonial Area End -->
+        <!-- Perfect Area End -->
 
         <!-- Latest News Area Start -->
         <div class="latest-news-area section-pt section-pb-80  bg-grey">
@@ -302,41 +240,46 @@ include_once 'head.php'?>
                     </div>
                 </div>
                 <div class="row latest-blog-active">
-                    <div class="col-lg-4">
+                <div class="col-lg-4">
                         <!-- single-latest-blog Start -->
-                        <div class="single-latest-blog mb--30 mt--30">
+                        <div class="single-latest-blog mb--30">
                             <div class="latest-blog-image">
-                                <a href="#"><img src="assets/images/blog/blog-01.jpg" alt=""></a>
+                                <a href="blog-details-left-sidebar.php"><img src="../assets/images/blog/blog-01.jpg"
+                                        alt="Por que as empresas de comércio eletrônico falham?"></a>
                             </div>
                             <div class="latest-blog-cont">
-                                <h3><a href="#">Digatal marketing is one of the</a></h3>
-                                <p>Lorem Ipsum available, but the majority have suffered alteration in form.</p>
+                                <h3><a href="blog-details-left-sidebar.php">Why do eCommerce Business Fail? Know How to Keep Yours!</a></h3>
+
                             </div>
                         </div>
                         <!--// single-latest-blog End -->
                     </div>
                     <div class="col-lg-4">
                         <!-- single-latest-blog Start -->
-                        <div class="single-latest-blog mb--30 mt--30">
+                        <div class="single-latest-blog mb--30">
                             <div class="latest-blog-image">
-                                <a href="#"><img src="assets/images/blog/blog-04.jpg" alt=""></a>
+                                <a href="blog-details-left-sidebar2.php"><img src="../assets/images/blog/blog-02.jpg"
+                                        alt="25 perguntas comuns de SEO e suas respostas"></a>
                             </div>
                             <div class="latest-blog-cont">
-                                <h3><a href="#">Keywords research is more then</a></h3>
-                                <p>Lorem Ipsum available, but the majority have suffered alteration in form.</p>
+                                <h3><a href="blog-details-left-sidebar2.php">25 Common SEO Questions and Theirs
+                                        Answers</a></h3>
+
                             </div>
                         </div>
                         <!--// single-latest-blog End -->
                     </div>
                     <div class="col-lg-4">
                         <!-- single-latest-blog Start -->
-                        <div class="single-latest-blog mb--30 mt--30">
+                        <div class="single-latest-blog mb--30">
                             <div class="latest-blog-image">
-                                <a href="#"><img src="assets/images/blog/blog-06.jpg" alt=""></a>
+                                <a href="blog-details-left-sidebar3.php"><img src="../assets/images/blog/blog-03.jpg"
+                                        alt="Por que a manutenção do site é importante para o seu negócio?"></a>
                             </div>
                             <div class="latest-blog-cont">
-                                <h3><a href="#">For SEO marketing you have to</a></h3>
-                                <p>Lorem Ipsum available, but the majority have suffered alteration in form.</p>
+                                <h3><a href="blog-details-left-sidebar3.php">Why is website maintenance important to
+                                        your business?</a></h3>
+
                             </div>
                         </div>
                         <!--// single-latest-blog End -->
