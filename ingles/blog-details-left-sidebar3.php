@@ -5,169 +5,160 @@
 
 <body>
 
-    <!-- Main Wrapper Start -->
-    <div class="main-wrapper">
-
-        <!-- Header-area start -->
-        <?php include_once "header.php" ?>
-        <!-- Header-area end -->
-
-        <!-- breadcrumb-area start -->
-        <div class="breadcrumb-area section-ptb">
-            <div class="container">
-                <div class="row">
-                    <div class="col">
-                        <h2 class="breadcrumb-title">Blog Detalhes</h2>
-                        <!-- breadcrumb-list start -->
-                        <ul class="breadcrumb-list">
-                            <li class="breadcrumb-item"><a href="index.php">Blog Detalhes</a></li>
-                            <li class="breadcrumb-item active">Blog</li>
-                        </ul>
-                        <!-- breadcrumb-list end -->
-                    </div>
+<!-- Main Wrapper Start -->
+<div class="main-wrapper">
+   
+    <!-- Header-area start -->
+    <?php include_once "header.php" ?>
+    <!-- Header-area end -->
+    
+    <!-- breadcrumb-area start -->
+    <div class="breadcrumb-area section-ptb">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <h2 class="breadcrumb-title">Blog Details</h2>
+                    <!-- breadcrumb-list start -->
+                    <ul class="breadcrumb-list">
+                        <li class="breadcrumb-item"><a href="index.php">Blog Details</a></li>
+                        <li class="breadcrumb-item active">Blog</li>
+                    </ul>
+                    <!-- breadcrumb-list end -->
                 </div>
             </div>
         </div>
-        <!-- breadcrumb-area end -->
+    </div>
+    <!-- breadcrumb-area end -->
+    
+    
+    <div class="blog-details-area section-ptb">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 order-2 order-lg-1">
+                    <!-- shop-sidebar-wrap start -->
+                    <div class="blog-sidebar-wrap">
 
-
-        <div class="blog-details-area section-ptb">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4 order-2 order-lg-1">
-                        <!-- shop-sidebar-wrap start -->
-                        <div class="blog-sidebar-wrap">
-
-                            <!-- shop-sidebar start -->
-                            <div class="blog-sidebar mb--30">
-                                <h4 class="title">Busca</h4>
-                                <div class="search-post">
-                                    <form action="#" class="search-blog">
-                                        <input type="text" placeholder="Buscar...">
-                                        <button class=" btn-search" type="submit"><span
-                                                class="fas fa-search"></span></button>
-                                    </form>
-                                </div>
+                        <!-- shop-sidebar start -->
+                        <div class="blog-sidebar mb--30">
+                            <h4 class="title">Search</h4>
+                            <div class="search-post">
+                                <form  action="#" class="search-blog">
+                                    <input type="text" placeholder="Buscar...">
+                                    <button class=" btn-search" type="submit"><span class="fas fa-search"></span></button>
+                                </form>
                             </div>
-                            <!-- shop-sidebar end -->
-
-                            <!-- shop-sidebar start -->
-                            <div class="blog-sidebar mb--30">
-                                <h4 class="title">CATEGORIAS</h4>
-                                <ul>
-                                    <li><a href="blog-details.html">Web Design <span>(11)</span></a></li>
-                                    <li><a href="blog-details.html">Marketing Digital <span>(13)</span></a></li>
-                                    <li><a href="blog-details.html">E-commerce <span>(6)</span></a></li>
-                                    <li><a href="blog-details.html">SEO <span>(51)</span></a></li>
-                                </ul>
-                            </div>
-                            <!-- shop-sidebar end -->
-
-                            <!-- shop-sidebar start -->
-                            <div class="sidbar-blog mb--30">
-                                <!-- sidbar-blog-inner start -->
-                                <div class="sidbar-blog-inner">
-                                    <div class="sidbar-blog-image">
-                                        <a href="product-details6.php"><img src="assets/images/blog/blog-06.jpg"
-                                                alt="Qual plataforma de mídia social está certa para comercializar seu negócio?"></a>
-                                    </div>
-                                    <div class="sidbar-blog-content text-left">
-                                        <h3><a href="blog-details6.php">Qual plataforma de mídia social está certa para
-                                                comercializar seu negócio?</a></h3>
-                                    </div>
-                                </div>
-
-                                <div class="sidbar-blog-inner">
-                                    <div class="sidbar-blog-image">
-                                        <a href="product-details5.php"><img src="assets/images/blog/blog-05.jpg"
-                                                alt="Web Design responsivo - a necessidade de hoje"></a>
-                                    </div>
-                                    <div class="sidbar-blog-content text-left">
-                                        <h3><a href="blog-details5.php">Web Design responsivo - a necessidade de
-                                                hoje</a></h3>
-                                    </div>
-                                </div>
-
-                                <div class="sidbar-blog-inner">
-                                    <div class="sidbar-blog-image">
-                                        <a href="product-details4.php"><img src="assets/images/blog/blog-04.jpg"
-                                                alt="Como usar vídeos para expandir sua empresa on-line"></a>
-                                    </div>
-                                    <div class="sidbar-blog-content text-left">
-                                        <h3><a href="blog-details4.php">Como usar vídeos para expandir sua empresa
-                                                on-line</a></h3>
-                                    </div>
-                                </div>
-
-                                <div class="sidbar-blog-inner">
-                                    <div class="sidbar-blog-image">
-                                        <a href="product-details3.php"><img src="assets/images/blog/blog-03.jpg"
-                                                alt="Por que a manutenção do site é importante para o seu negócio?"></a>
-                                    </div>
-                                    <div class="sidbar-blog-content text-left">
-                                        <h3><a href="blog-details3.php">Por que a manutenção do site é importante para o
-                                                seu negócio?</a></h3>
-                                    </div>
-                                </div>
-                                <!-- sidbar-blog-inner end -->
-                                <!-- sidbar-blog-inner start -->
-                                <div class="sidbar-blog-inner">
-                                    <div class="sidbar-blog-image">
-                                        <a href="blog-details2.php"><img src="assets/images/blog/blog-02.jpg"
-                                                alt="25 perguntas comuns de SEO e suas respostas"></a>
-                                    </div>
-                                    <div class="sidbar-blog-content text-left">
-                                        <h3><a href="blog-details2.php">25 perguntas comuns de SEO e suas respostas</a>
-                                        </h3>
-                                    </div>
-                                </div>
-                                <!-- sidbar-blog-inner end -->
-                                <!-- sidbar-blog-inner start -->
-                                <div class="sidbar-blog-inner">
-                                    <div class="sidbar-blog-image">
-                                        <a href="blog-details.php"><img src="assets/images/blog/blog-01.jpg"
-                                                alt="Por que as empresas de comércio eletrônico falham?"></a>
-                                    </div>
-                                    <div class="sidbar-blog-content text-left">
-                                        <h3><a href="blog-details.php">Por que as empresas de comércio eletrônico
-                                                falham?</a></h3>
-                                    </div>
-                                </div>
-                                <!-- sidbar-blog-inner end -->
-                            </div>
-                            <!-- shop-sidebar end -->
-
-
-
-                            <!-- shop-sidebar start -->
-                            <div class="blog-sidebar">
-                                <h4 class="title">Tags</h4>
-                                <div class="sidebar-tag">
-                                    <a href="#">Digital</a>
-                                    <a href="#">Google</a>
-                                    <a href="#">Marketing</a>
-                                    <a href="#">Software</a>
-                                    <a href="#">design</a>
-                                </div>
-                            </div>
-                            <!-- shop-sidebar end -->
                         </div>
-                        <!-- shop-sidebar-wrap end -->
-                    </div>
-                    <div class="col-lg-8 order-1 order-lg-2">
-                        <!-- blog-details-wrapper start -->
-                        <div class="blog-details-wrapper">
-                            <div class="blog-details-image">
-                                <img src="assets/images/blog/blog-details3.jpg"
-                                    alt="Por que sites precisam de manutenção?">
-                            </div>
-                            <div class="blog-inner">
-                                <ul class="meta">
-                                    <li>Por : <a href="#">admin</a></li>
-                                    <li>11 jul 2019</li>
+                        <!-- shop-sidebar end -->
 
-                                </ul>
+                        <!-- shop-sidebar start -->
+                        <div class="blog-sidebar mb--30">
+                            <h4 class="title">CATEGORIES</h4>
+                            <ul>  
+                                <li><a href="blog-details.html">Web Design <span>(11)</span></a></li>
+                                <li><a href="blog-details.html">Digital Marketing<span>(13)</span></a></li>
+                                <li><a href="blog-details.html">E-commerce <span>(6)</span></a></li>
+                                <li><a href="blog-details.html">SEO <span>(51)</span></a></li>
+                            </ul>
+                        </div>
+                        <!-- shop-sidebar end -->
+
+                        <!-- shop-sidebar start -->
+                        <div class="sidbar-blog mb--30">
+
+
+                            <div class="sidbar-blog-inner">
+                                <div class="sidbar-blog-image">
+                                    <a href="product-details6.php"><img src="../assets/images/blog/blog-06.jpg" alt="Qual plataforma de mídia social está certa para comercializar seu negócio?"></a>
+                                </div>
+                                <div class="sidbar-blog-content text-left">
+                                    <h3><a href="blog-details6.php">Which social media platform is right to market your business?</a></h3>
+                                </div>
                             </div>
+
+                            <div class="sidbar-blog-inner">
+                                <div class="sidbar-blog-image">
+                                    <a href="product-details5.php"><img src="../assets/images/blog/blog-05.jpg" alt="Web Design responsivo - a necessidade de hoje"></a>
+                                </div>
+                                <div class="sidbar-blog-content text-left">
+                                    <h3><a href="blog-details5.php">Responsive Web Design - The Need of Today</a></h3>
+                                </div>
+                            </div>
+
+                            <div class="sidbar-blog-inner">
+                                <div class="sidbar-blog-image">
+                                    <a href="product-details4.php"><img src="../assets/images/blog/blog-04.jpg" alt="Como usar vídeos para expandir sua empresa on-line"></a>
+                                </div>
+                                <div class="sidbar-blog-content text-left">
+                                    <h3><a href="blog-details4.php">How to Use Videos to Grow your Business
+                                        Online</a></h3>
+                                </div>
+                            </div>
+
+                            <!-- sidbar-blog-inner start -->
+                            <div class="sidbar-blog-inner">
+                                <div class="sidbar-blog-image">
+                                    <a href="product-details3.php"><img src="../assets/images/blog/blog-03.jpg" alt="Por que a manutenção do site é importante para o seu negócio?"></a>
+                                </div>
+                                <div class="sidbar-blog-content text-left">
+                                    <h3><a href="blog-details3.php">Why is website maintenance important to
+                                        your business?</a></h3>
+                                </div>
+                            </div>
+                            <!-- sidbar-blog-inner end -->
+                            <!-- sidbar-blog-inner start -->
+                            <div class="sidbar-blog-inner">
+                                <div class="sidbar-blog-image">
+                                    <a href="blog-details2.php"><img src="../assets/images/blog/blog-02.jpg" alt="25 perguntas comuns de SEO e suas respostas"></a>
+                                </div>
+                                <div class="sidbar-blog-content text-left">
+                                    <h3><a href="blog-details2.php">25 Common SEO Questions and Theirs
+                                        Answers</a></h3>
+                                </div>
+                            </div>
+                            <!-- sidbar-blog-inner end -->
+                            <!-- sidbar-blog-inner start -->
+                            <div class="sidbar-blog-inner">
+                                <div class="sidbar-blog-image">
+                                    <a href="blog-details.php"><img src="../assets/images/blog/blog-01.jpg" alt="Por que as empresas de comércio eletrônico falham?"></a>
+                                </div>
+                                <div class="sidbar-blog-content text-left">
+                                    <h3><a href="blog-details.php">Why do eCommerce Business Fail? Know How to Keep Yours!</a></h3>
+                                </div>
+                            </div>
+                            <!-- sidbar-blog-inner end -->
+                        </div>
+                        <!-- shop-sidebar end -->
+
+                        
+
+                        <!-- shop-sidebar start -->
+                        <div class="blog-sidebar">
+                            <h4 class="title">Tags</h4>
+                            <div class="sidebar-tag">
+                                <a href="#">Digital</a>
+                                <a href="#">Google</a>
+                                <a href="#">Marketing</a>
+                                <a href="#">Software</a>
+                                <a href="#">Design</a>
+                            </div>
+                        </div>
+                        <!-- shop-sidebar end -->
+                    </div>
+                    <!-- shop-sidebar-wrap end -->
+                </div>
+                <div class="col-lg-8 order-1 order-lg-2">
+                    <!-- blog-details-wrapper start -->
+                    <div class="blog-details-wrapper">
+                        <div class="blog-details-image">
+                            <img src="../assets/images/blog/blog-details6.jpg" alt="Qual plataforma de mídia social está certa para comercializar seu negócio?">
+                        </div>
+                        <div class="blog-inner">
+                            <ul class="meta">
+                                <li>By : <a href="#">admin</a></li>
+                                <li>July 11, 2019</li>
+                                
+                            </ul>
+                        </div>
                             <div class="postinfo-wrapper">
                                 <div class="post-info">
 
