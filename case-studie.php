@@ -136,13 +136,12 @@ include_once 'head.php'?>
                     <div class="row">
                         <div class="col-lg-12">
                             <ul class="pagination-box">
-                                <li><a class="Previous" href="#">Previous</a>
+                                <li><a class="Previous" href="#">Anterior</a>
                                 </li>
                                 <li class="active"><a href="#">1</a></li>
-                                <li><a href="#">2</a></li>
-                                <li><a href="#">3</a></li>
+                                
                                 <li>
-                                    <a class="Next" href="#">Next </a>
+                                    <a class="Next" href="#">Próxima</a>
                                 </li>
                             </ul>
                         </div>

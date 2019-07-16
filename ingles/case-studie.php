@@ -141,8 +141,7 @@ include_once 'head.php'?>
                                 <li><a class="Previous" href="#">Previous</a>
                                 </li>
                                 <li class="active"><a href="#">1</a></li>
-                                <li><a href="#">2</a></li>
-                                <li><a href="#">3</a></li>
+                                
                                 <li>
                                     <a class="Next" href="#">Next </a>
                                 </li>
