@@ -150,7 +150,7 @@
                     <!-- blog-details-wrapper start -->
                     <div class="blog-details-wrapper">
                         <div class="blog-details-image">
-                            <img src="../assets/images/blog/blog-details6.jpg" alt="Qual plataforma de mídia social está certa para comercializar seu negócio?">
+                            <img src="../assets/images/blog/blog-details4.jpg" alt="Qual plataforma de mídia social está certa para comercializar seu negócio?">
                         </div>
                         <div class="blog-inner">
                             <ul class="meta">
