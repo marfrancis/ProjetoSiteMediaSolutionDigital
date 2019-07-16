@@ -64,11 +64,11 @@ include_once 'head.php'?>
                         <!-- single-case-item Start -->
                         <div class="single-case-item">
                             <div class="single-case-image">
-                                <a class="case-image" href="project-details.html"><img src="assets/images/case/02.jpg"
+                                <a class="case-image" href="project-boutique.php"><img src="assets/images/case/02.jpg"
                                         alt=""></a>
                             </div>
                             <div class="case-content">
-                                <h3><a href="project-details.html">Jacque Massini Boutique</a></h3>
+                                <h3><a href="project-boutique.php">Jacque Massini Boutique</a></h3>
 
                             </div>
                         </div>
@@ -78,11 +78,11 @@ include_once 'head.php'?>
                         <!-- single-case-item Start -->
                         <div class="single-case-item">
                             <div class="single-case-image">
-                                <a class="case-image" href="project-details.html"><img src="assets/images/case/03.jpg"
+                                <a class="case-image" href="project-reeduca.php"><img src="assets/images/case/03.jpg"
                                         alt=""></a>
                             </div>
                             <div class="case-content">
-                                <h3><a href="project-details.html">Reeduca Recicla</a></h3>
+                                <h3><a href="project-reeduca.php">Reeduca Recicla</a></h3>
 
                             </div>
                         </div>
