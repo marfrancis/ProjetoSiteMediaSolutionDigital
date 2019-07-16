@@ -140,10 +140,10 @@ include_once 'head.php'?>
                         <!-- single-case-item Start -->
                         <div class="single-case-item">
                             <div class="single-case-image">
-                                <a class="case-image" href="project-patisserie.php" target="_blank"><img src="assets/images/case/01.jpg" alt=""></a>
+                                <a class="case-image" href="case-studie.php" target="_blank"><img src="assets/images/case/01.jpg" alt=""></a>
                             </div>
                             <div class="case-content">
-                                <h3><a href="#">Marcelo Ribeiro Patisserie</a></h3>
+                                <h3><a href="case-studie.php">Marcelo Ribeiro Patisserie</a></h3>
                                 
                             </div>
                         </div>
@@ -153,10 +153,10 @@ include_once 'head.php'?>
                         <!-- single-case-item Start -->
                         <div class="single-case-item">
                             <div class="single-case-image">
-                                <a class="case-image" href="#"><img src="assets/images/case/02.jpg" alt=""></a>
+                                <a class="case-image" href="case-studie.php"><img src="assets/images/case/02.jpg" alt=""></a>
                             </div>
                             <div class="case-content">
-                                <h3><a href="#">Jacque Massini Boutique</a></h3>
+                                <h3><a href="case-studie.php">Jacque Massini Boutique</a></h3>
                               
                             </div>
                         </div>
@@ -166,10 +166,10 @@ include_once 'head.php'?>
                         <!-- single-case-item Start -->
                         <div class="single-case-item">
                             <div class="single-case-image">
-                                <a class="case-image" href="#"><img src="assets/images/case/03.jpg" alt=""></a>
+                                <a class="case-image" href="case-studie.php"><img src="assets/images/case/03.jpg" alt=""></a>
                             </div>
                             <div class="case-content">
-                                <h3><a href="#">Reeduca Recicla</a></h3>
+                                <h3><a href="case-studie.php">Reeduca Recicla</a></h3>
                                 
                             </div>
                         </div>
