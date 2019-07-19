@@ -31,7 +31,7 @@ include_once 'head.php'?>
                     <h2 class="breadcrumb-title">Contact</h2>
                     <!-- breadcrumb-list start -->
                     <ul class="breadcrumb-list">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                         <li class="breadcrumb-item active">Contact</li>
                     </ul>
                     <!-- breadcrumb-list end -->

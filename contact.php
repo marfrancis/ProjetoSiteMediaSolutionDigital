@@ -24,15 +24,15 @@ include_once 'head.php'?>
     <!-- Header-area end -->
     
     <!-- breadcrumb-area start -->
-    <div class="breadcrumb-area section-ptb">
+    <div class="breadcrumb-area-contato section-ptb img-fluid">
         <div class="container">
             <div class="row">
                 <div class="col">
                     <h2 class="breadcrumb-title">Contato</h2>
                     <!-- breadcrumb-list start -->
                     <ul class="breadcrumb-list">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item active">Contact</li>
+                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                        <li class="breadcrumb-item active">Contato</li>
                     </ul>
                     <!-- breadcrumb-list end -->
                 </div>

@@ -1049,10 +1049,47 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     - Breadcrumb Style
 ------------------------------------------*/
 /*---- Breadcrumb One ----*/
-.breadcrumb-area {
-  background: url("../images/bg/breadcrumb-2.png") repeat scroll 0 0;
+.breadcrumb-area-contato {
+  background-image: url("../images/bg/Contato.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
   text-align: center;
 }
+
+.breadcrumb-area-sobre {
+  background-image: url("../images/bg/Sobre.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  text-align: center;
+}
+
+.breadcrumb-area-blog {
+  background-image: url("../images/bg/Blog.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  text-align: center;
+}
+
+.breadcrumb-area-servico {
+  background-image: url("../images/bg/Servico.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  text-align: center;
+}
+
+.breadcrumb-area-portfolio {
+  background-image: url("../images/bg/Portfolio.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  text-align: center;
+}
+
+
 .breadcrumb-area h2 {
   font-size: 30px;
   font-weight: 700;
