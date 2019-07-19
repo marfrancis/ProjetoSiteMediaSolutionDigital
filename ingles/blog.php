@@ -20,7 +20,7 @@ include_once 'head.php'?>
         <!-- Header-area end -->
 
         <!-- breadcrumb-area start -->
-        <div class="breadcrumb-area section-ptb">
+        <div class="breadcrumb-area-blog section-ptb">
             <div class="container">
                 <div class="row">
                     <div class="col">

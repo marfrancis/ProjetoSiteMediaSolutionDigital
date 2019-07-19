@@ -1049,10 +1049,47 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     - Breadcrumb Style
 ------------------------------------------*/
 /*---- Breadcrumb One ----*/
-.breadcrumb-area {
-  background: url("../images/bg/breadcrumb-2.png") repeat scroll 0 0;
+.breadcrumb-area-contato {
+  background-image: url("../images/bg/Contato.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
   text-align: center;
 }
+
+.breadcrumb-area-sobre {
+  background-image: url("../images/bg/Sobre.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  text-align: center;
+}
+
+.breadcrumb-area-blog {
+  background-image: url("../images/bg/Blog.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  text-align: center;
+}
+
+.breadcrumb-area-servico {
+  background-image: url("../images/bg/Servico.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  text-align: center;
+}
+
+.breadcrumb-area-portfolio {
+  background-image: url("../images/bg/Portfolio.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  text-align: center;
+}
+
+
 .breadcrumb-area h2 {
   font-size: 30px;
   font-weight: 700;
@@ -1223,13 +1260,13 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 @media only screen and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
   .mobile-menu .mean-bar .mean-nav > ul {
-    max-height: 280px;
+    max-height: 317px;
     overflow-y: auto;
   }
 }
 @media only screen and (max-width: 479px) {
   .mobile-menu .mean-bar .mean-nav > ul {
-    max-height: 220px;
+    max-height: 317px;
     overflow-y: auto;
   }
 }
@@ -1323,6 +1360,23 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .mobile-menu .mean-bar .mean-nav > ul li .sub-menu li .sub-menu .sub-menu li a.mean-expand, .mobile-menu .mean-bar .mean-nav > ul li .sub-menu li .sub-menu ul li a.mean-expand, .mobile-menu .mean-bar .mean-nav > ul li .sub-menu li ul .sub-menu li a.mean-expand, .mobile-menu .mean-bar .mean-nav > ul li .sub-menu li ul ul li a.mean-expand, .mobile-menu .mean-bar .mean-nav > ul li .mega-menu li .sub-menu .sub-menu li a.mean-expand, .mobile-menu .mean-bar .mean-nav > ul li .mega-menu li .sub-menu ul li a.mean-expand, .mobile-menu .mean-bar .mean-nav > ul li .mega-menu li ul .sub-menu li a.mean-expand, .mobile-menu .mean-bar .mean-nav > ul li .mega-menu li ul ul li a.mean-expand, .mobile-menu .mean-bar .mean-nav > ul li ul li .sub-menu .sub-menu li a.mean-expand, .mobile-menu .mean-bar .mean-nav > ul li ul li .sub-menu ul li a.mean-expand, .mobile-menu .mean-bar .mean-nav > ul li ul li ul .sub-menu li a.mean-expand, .mobile-menu .mean-bar .mean-nav > ul li ul li ul ul li a.mean-expand {
   border: 1px solid #eeeeee;
 }
+
+.logo-mobile {
+  width: 71%;
+
+}
+
+.logo-mobile-mg {
+  margin: 0px;
+}
+
+.mobile-margen {
+ right: 0px;
+
+}
+
+
+
 
 /*--
     04. Header Css
@@ -2217,6 +2271,12 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 /*--
     11. Blog Css
 -----------------------------*/
+
+.blog-list {
+  list-style-type: disc;
+}
+
+
 .single-latest-blog {
   box-shadow: 0px 5px 10px 0 rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease-in-out;
