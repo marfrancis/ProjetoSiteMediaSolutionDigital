@@ -110,7 +110,7 @@ include_once 'head.php'?>
                                         alt=""></a>
                             </div>
                             <div class="case-content">
-                                <h3><a href="project-details.html">SEO marketing do a unlimited</a></h3>
+                                <h3><a href="project-details.html">Jam Produtora</a></h3>
 
                             </div>
                         </div>

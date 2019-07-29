@@ -10,23 +10,7 @@
         <!-- Header-area end -->
         <!-- Header-area end -->
 
-        <!-- breadcrumb-area start -->
-        <div class="breadcrumb-area section-ptb">
-            <div class="container">
-                <div class="row">
-                    <div class="col">
-                        <h2 class="breadcrumb-title">Serviços</h2>
-                        <!-- breadcrumb-list start -->
-                        <ul class="breadcrumb-list">
-                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                            <li class="breadcrumb-item active">Serviços</li>
-                        </ul>
-                        <!-- breadcrumb-list end -->
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- breadcrumb-area end -->
+        
 
 
         <!-- Our case Area Start -->
@@ -36,7 +20,7 @@
                     <div class="col-lg-12">
                         <div class="project-thumbnail mb--30 text-center">
                             <div class="cars-image">
-                                <img src="assets/images/case/project-details.jpg" alt="">
+                                <img src="assets/images/case/project-detailsseo.jpg" alt="">
                             </div>
                         </div>
                         <div class="row">

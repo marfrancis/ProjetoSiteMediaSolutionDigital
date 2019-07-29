@@ -110,9 +110,8 @@ include_once 'head.php'?>
                                         alt=""></a>
                             </div>
                             <div class="case-content">
-                                <h3><a href="project-details.html">SEO marketing do a unlimited</a></h3>
-                                <p>Randomised words which don't look n slightly believable. If you are going to use a
-                                    passayou need to be sure kew ki..</p>
+                            <h3><a href="project-details.html">Jam Produtora</a></h3>
+                                
                             </div>
                         </div>
                         <!--// single-case-item End -->
@@ -126,8 +125,7 @@ include_once 'head.php'?>
                             </div>
                             <div class="case-content">
                                 <h3><a href="project-details.html">Twice profit than before</a></h3>
-                                <p>Randomised words which don't look n slightly believable. If you are going to use a
-                                    passayou need to be sure kew ki..</p>
+                                
                             </div>
                         </div>
                         <!--// single-case-item End -->
